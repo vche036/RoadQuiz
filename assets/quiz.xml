@@ -1,0 +1,2154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+	 <title>Do you know the rules?</title>
+	<abstract>Learn the New Zealand road code online for free and test your knowledge by answering sets of 10 questions.</abstract>
+	<buttons>
+	<button title="Book a driving lesson" link="http://www.aa.co.nz/motoring/driving-lessons-courses/lessons-courses/" afterQuizNo="1"/>
+		<button title="Try a practice test?" link="http://app.roadcodepractice.co.nz/go.aspx?Ref=5" afterQuizNo="2"/>
+		<button title="Book a driving lesson" link="http://www.aa.co.nz/motoring/driving-lessons-courses/lessons-courses/" afterQuizNo="3"/>
+		<button title="Try a practice test?" link="http://app.roadcodepractice.co.nz/go.aspx?Ref=11" afterQuizNo="4"/>
+		<button title="Book a driving lesson" link="http://www.aa.co.nz/motoring/driving-lessons-courses/lessons-courses/" afterQuizNo="5"/>
+		<button title="Try a practice test?" link="http://app.roadcodepractice.co.nz/go.aspx?Ref=11" afterQuizNo="6"/>
+				<button title="Book a driving lesson" link="http://www.aa.co.nz/motoring/driving-lessons-courses/lessons-courses/" afterQuizNo="7"/>
+
+		<button title="Try a practice test?" link="http://app.roadcodepractice.co.nz/go.aspx?Ref=11" afterQuizNo="8"/>
+	</buttons>
+	 <items>
+		<item number="1">
+		   <question>Who can require you to undergo a breath screening test?</question>
+			<image>/assets/motoring/rcq/qImg/q109.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 118 of the Official New Zealand Road Code.</respond>	
+			<answer>An ambulance officer.</answer>
+			<answer>A doctor.</answer>	
+<answer>A member of the public.</answer>	
+			<answer correct="y">A police officer.</answer>
+		</item>
+		<item number="2">
+			<question>If anybody is hurt in a crash, the driver must tell a police officer as soon as possible but within:</question>
+			<image>/assets/motoring/rcq/qImg/q131.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 137 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">24 hours.</answer>
+			<answer>36 hours.</answer>
+			<answer>48 hours.</answer>
+			<answer>60 hours.</answer>
+		</item>
+		<item number="3">
+			<question>You are driving in a 100 km/h speed area and you see an "Accident" sign. What speed must you slow down to?</question>
+			<image>/assets/motoring/rcq/qImg/accident-sign.gif</image>
+			<respond>The correct answer is D. For more information about this question refer to page 137 of the Official New Zealand Road Code.</respond>
+			<answer>50 km/h.</answer>
+			<answer>40 km/h.</answer>
+			<answer>30 km/h.</answer>
+			<answer correct="y">20 km/h.</answer>
+		</item>
+		<item number="4">
+			<question>Who may legally require you to give a blood sample?</question>
+			<image>/assets/motoring/rcq/qImg/q004.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 118 of the Official New Zealand Road Code.</respond>
+			<answer>A police officer, an ambulance officer, other crash party.</answer>
+			<answer>A medical doctor, other crash party, a police officer.</answer>
+			<answer correct="y">A police officer, a medical doctor or an approved person.</answer>
+			<answer>An ambulance driver, an approved person or a medical doctor.</answer>
+		</item>	
+		<item number="5">
+			<question>When turning right at a roundabout, you must:</question>
+			<image>/assets/motoring/rcq/qImg/q156.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 70 of the Official New Zealand Road Code.</respond>
+			<answer>not indicate at any time on the roundabout.</answer>
+			<answer>indicate left before entering the roundabout.</answer>
+			<answer correct="y">indicate right before entering the roundabout.</answer>
+			<answer>indicate right when leaving the roundabout.</answer>
+		</item>
+		<item number="6">
+			<question>What must you do before turning left into a driveway?</question>
+			<image>/assets/motoring/rcq/qImg/q006.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 26 of the Official New Zealand Road Code.</respond>
+			<answer>Check the driveway is clear and enter.</answer>
+			<answer>Signal only if there is a vehicle behind you and enter.</answer>
+			<answer correct="y">Signal for 3 seconds or more and if the driveway is clear, enter.</answer>
+			<answer>Signal only if another vehicle is coming towards you and enter.</answer>
+		</item>
+		<item number="7">
+			<question>You may stop on a motorway only:</question>
+			<image>/assets/motoring/rcq/qImg/q031.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 52 of the Official New Zealand Road Code.</respond>
+			<answer>to let down or pick up passengers.</answer>
+			<answer correct="y">if there is an emergency.</answer>
+			<answer>to make a U-turn.</answer>
+			<answer>to stop and take a photo.</answer>	
+		</item>
+		<item number="8">
+			<question>If you miss your exit on a motorway, you should:</question>
+			<image>/assets/motoring/rcq/qImg/q008.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 52 of the Official New Zealand Road Code.</respond>
+			<answer>reverse back to the exit.</answer>
+			<answer>make a U-turn back to the exit.</answer>
+			<answer correct="y">drive on to the next exit.</answer>
+			<answer>to stop and flash your lights.</answer>
+		</item>
+		<item number="9">
+			<question>What must you do when red lights are flashing at a railway level crossing?</question>
+			<image>/assets/motoring/rcq/qImg/railway-cross-sign.gif</image>
+			<respond>The correct answer is C. For more information about this question refer to page 74 of the Official New Zealand Road Code.</respond>
+			<answer>Drive over the lines as soon as the train has passed.</answer>
+			<answer>Slow down and then drive over the lines.</answer>
+			<answer correct="y">Stop until the lights stop flashing.</answer>
+			<answer>Stop and if no train is coming you may drive over the lines.</answer>
+		</item>
+		<item number="10">
+			<question>When driving on an unlaned road, your vehicle should be positioned:</question>
+			<image>/assets/motoring/rcq/qImg/q010.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 18 of the Official New Zealand Road Code.</respond>
+			<answer>anywhere, so long as you can see what is coming.</answer>
+			<answer>1 metre from the left-hand kerb.</answer>
+			<answer>close to the centre of the road.</answer>
+			<answer correct="y">as close to the left side of the road as possible.</answer>
+		</item>
+		<item number="11">
+			<question>You must turn your vehicle headlights on when visibility is less than:</question>
+			<image>/assets/motoring/rcq/qImg/q011.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 87 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">100 metres.</answer>
+			<answer>120 metres.</answer>
+			<answer>140 metres.</answer>
+			<answer>160 metres.</answer>
+		</item>
+		<item number="12">
+			<question>When turning right from a two-laned road into a one-way street that has two lanes, you must turn into the:</question>
+			<image>/assets/motoring/rcq/qImg/q132.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 33 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">right-hand lane.</answer>
+			<answer>left-hand lane.</answer>
+			<answer>lane that has the least vehicles.</answer>
+			<answer>lane that gives you the most direct route.</answer>	
+		</item>
+		<item number="13">
+			<question>If you are a driver involved in a crash, the FIRST action you should take is to:</question>
+			<image>/assets/motoring/rcq/qImg/q013.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 137 of the Official New Zealand Road Code.</respond>
+			<answer>stop and place a warning triangle at the side of the road.</answer>
+			<answer>drive past at 20 km/h until you pass the site of the crash.</answer>
+			<answer correct="y">stop and check to see if anyone is hurt.</answer>
+			<answer>tell a police officer as soon as possible.</answer>
+		</item>
+		<item number="14">
+			<question>If you intend to move your vehicle from the right-hand lane to the left-hand lane, you must first:</question>
+			<image>/assets/motoring/rcq/qImg/q031.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 20 of the Official New Zealand Road Code.</respond>
+			<answer>move to the left as quickly as possible.</answer>
+			<answer>speed up and signal as you move to the left.</answer>
+			<answer correct="y">signal for at least 3 seconds before moving left.</answer>
+			<answer>slow down and signal as you move to the left.</answer>
+		</item>
+		<item number="15">
+			<question>If you are driving in fog, your vehicle should have its:</question>
+			<image>/assets/motoring/rcq/qImg/q015.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 87 of the Official New Zealand Road Code.</respond>
+			<answer>park lights on.</answer>
+			<answer correct="y">headlights on dip.</answer>
+			<answer>headlights on high beam.</answer>
+			<answer>hazard lights on.</answer>
+		</item>
+		<item number="16">
+		<question>What is the best way to check for hazards before reversing your vehicle?</question>
+			<image>/assets/motoring/rcq/qImg/q016.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 55 of the Official New Zealand Road Code.</respond>
+			<answer>Relying only on the outside mirrors.</answer>
+			<answer>Turning to look over your shoulders.</answer>
+			<answer>Relying only on the inside mirrors.</answer>
+			<answer correct="y">Walking around the vehicle before reversing.</answer>	
+		</item>
+		<item number="17">
+			<question>If you are driving at night with your vehicle headlights on high beam, you MUST dip them when coming up to:</question>
+			<image>/assets/motoring/rcq/qImg/q011.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 88 of the Official New Zealand Road Code.</respond>
+			<answer>an intersection.</answer>
+			<answer>a one-way street.</answer>
+			<answer correct="y">a police officer on point duty.</answer>
+			<answer>a town or city.</answer>	
+		</item>
+		<item number="18">
+			<question>What is the least distance of clear road you MUST have in front of you when you have finished passing another vehicle?</question>
+			<image>/assets/motoring/rcq/qImg/passing-right.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 39 of the Official New Zealand Road Code.</respond>
+			<answer>40 metres.</answer>
+			<answer>60 metres.</answer>
+			<answer>80 metres.</answer>
+			<answer correct="y">100 metres.</answer>
+		</item>	
+		<item number="19">
+			<question>What does a white reflector (cat's eye) placed on the road mean?</question>
+			<image>/assets/motoring/rcq/qImg/reflector-white.gif</image>
+			<respond>The correct answer is B. For more information about this question refer to page 90 of the Official New Zealand Road Code.</respond>
+			<answer>The left side of the road.</answer>
+			<answer correct="y">The centre of the road.</answer>
+			<answer>No passing.</answer>
+			<answer>The far right side of the road.</answer>
+		</item>
+		<item number="20">
+			<question>What does a yellow reflector (cat's eye) placed on the road mean?</question>
+			<image>/assets/motoring/rcq/qImg/reflector-yellow.gif</image>
+			<respond>The correct answer is C. For more information about this question refer to page 95 of the Official New Zealand Road Code.</respond>
+			<answer>The left side of the road.</answer>
+			<answer>The centre of the road.</answer>
+			<answer correct="y">No passing.</answer>
+			<answer>The far right side of the road.</answer>
+		</item>
+		<item number="21">
+			<question>To help you from being blinded by the headlights of an oncoming vehicle, you should:</question>
+			<image>/assets/motoring/rcq/qImg/q011.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 89 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">look to the left-hand side of the road.</answer>
+			<answer>look to the right-hand side of the road.</answer>
+			<answer>look to the centre of the road.</answer>
+			<answer>turn the headlights of your vehicle onto high beam.</answer>
+		</item>
+		<item number="22">
+			<question>When passing a horse and rider, you should:</question>
+			<image>/assets/motoring/rcq/qImg/q022.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 162 of the Official New Zealand Road Code.</respond>
+			<answer>warn the rider by sounding the horn on your vehicle.</answer>
+			<answer correct="y">slow down and give them as much room as you can.</answer>
+			<answer>speed up.</answer>
+			<answer>warn the rider by turning your vehicle headlights on.</answer>
+		</item>
+		<item number="23">
+			<question>What rule applies when both vehicles are controlled by a Give Way sign?</question>
+			<image>/assets/motoring/rcq/qImg/q023.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 62 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">The give way rule.</answer>
+			<answer>The lane rule.</answer>
+			<answer>The passing rule.</answer>
+			<answer>The 2-second rule.</answer>
+		</item>
+		<item number="24">
+			<question>When driving on an unlaned road, you must drive your vehicle on the:</question>
+			<image>/assets/motoring/rcq/qImg/q010.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 18 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">left-hand side of the road.</answer>
+			<answer>right-hand side of the road.</answer>
+			<answer>centre of the road.</answer>
+			<answer>shoulder of the road.</answer>
+		</item>
+		<item number="25">
+			<question>At night, you MUST always dip the headlights on your vehicle when:</question>
+			<image>/assets/motoring/rcq/qImg/q122.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 88 of the Official New Zealand Road Code.</respond>
+			<answer>driving around town.</answer>
+			<answer>driving on a motorway.</answer>
+			<answer correct="y">following other vehicles.</answer>
+			<answer>driving in the country.</answer>
+		</item>
+		<item number="26">
+			<question>If you have to drive at a slow speed, which may hold up other vehicles, what should you do?</question>
+			<image>/assets/motoring/rcq/qImg/q026.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 112 of the Official New Zealand Road Code.</respond>
+			<answer>Keep as close as you can to the centre of the road.</answer>
+			<answer correct="y">Keep as close as you can to the left side of the road.</answer>
+			<answer>Make the traffic behind you slow down to the speed that you are driving at.</answer>
+			<answer>Drive down the middle of the road so that any vehicles behind you can pass on the left.</answer>
+		</item>
+		<item number="27">
+			<question>What must you do when you see blue and red flashing lights behind you?</question>
+			<image>/assets/motoring/rcq/qImg/police-flash-lights.gif</image>
+			<respond>The correct answer is C. For more information about this question refer to page 23 of the Official New Zealand Road Code.</respond>
+			<answer>Speed up to get out of the way.</answer>
+			<answer>Slow down and drive on carefully.</answer>
+			<answer correct="y">Slow down and stop.</answer>
+			<answer>Drive on as usual.</answer>
+		</item>
+	    <item number="28">
+			<question>How close can you park to an intersection where there are no broken yellow lines painted on the side of the road?</question>
+			<image>/assets/motoring/rcq/qImg/q028.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 80 of the Official New Zealand Road Code.</respond>
+			<answer>3 metres.</answer>
+			<answer>4 metres.</answer>
+			<answer>5 metres.</answer>
+			<answer correct="y">6 metres.</answer>
+		</item>
+	    <item number="29">
+			<question>You must check that there is space for your vehicle on the other side of the line before going over a railway level crossing.</question>
+			<image>/assets/motoring/rcq/qImg/q029.jpg</image>
+			<respond>The correct answer is True. For more information about this question refer to page 75 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item number="30">
+			<question>The speed limit sign shown, means the:</question>
+			<image>/assets/motoring/rcq/qImg/q158.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 113 of the Official New Zealand Road Code.</respond>
+			<answer>slowest speed you are allowed to drive on the motorway.</answer>
+			<answer>average speed you are allowed to drive in good conditions.</answer>
+			<answer correct="y">fastest speed you are allowed to drive in good conditions.</answer>
+			<answer>fastest speed you are allowed to drive, except when passing.</answer>
+		</item>
+	    <item number="31">
+			<question>What are you NOT allowed to do when driving on a motorway?</question>
+			<image>/assets/motoring/rcq/qImg/q031.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 52 of the Official New Zealand Road Code.</respond>
+			<answer>Indicate before changing lanes.</answer>
+			<answer>Pass using the left-hand lane.</answer>
+			<answer>Pass other vehicles.</answer>
+			<answer correct="y">Pick up hitchhikers.</answer>
+		</item>
+	    <item number="32">
+			<question>You must NOT park on the right-hand side of the road except when you are:</question>
+			<image>/assets/motoring/rcq/qImg/q168.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 79 of the Official New Zealand Road Code.</respond>
+			<answer>in the countryside.</answer>
+			<answer>picking up passengers.</answer>
+			<answer>delivering packages.</answer>
+			<answer correct="y">in a one-way street.</answer>
+		</item>
+	    <item number="33">
+			<question>If you tow another vehicle, what is the maximum distance allowed between the two vehicles?</question>
+			<image>/assets/motoring/rcq/qImg/q033.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 53 of the Official New Zealand Road Code.</respond>
+			<answer>2 metres.</answer>
+			<answer correct="y">4 metres.</answer>
+			<answer>The length of the vehicle you are driving.</answer>
+			<answer>The length of the vehicle being towed.</answer>
+		</item>
+	    <item number="34">
+			<question>When a flock of sheep are coming towards you on a country road, you should:</question>
+			<image>/assets/motoring/rcq/qImg/q034.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 132 of the Official New Zealand Road Code.</respond>
+			<answer>sound the horn on your vehicle to move them.</answer>
+			<answer correct="y">slow down or pull over to the side of the road.</answer>
+			<answer>turn on your vehicle hazard lights and drive on.</answer>
+			<answer>turn on your vehicle headlights and then drive on.</answer>
+		</item>
+	    <item number="35">
+			<question>You are waiting at a railway level crossing and the red lights continue to flash after the train has passed. You should:</question>
+			<image>/assets/motoring/rcq/qImg/railway-cross-sign.gif</image>
+			<respond>The correct answer is B. For more information about this question refer to page 74 of the Official New Zealand Road Code.</respond>
+			<answer>drive on carefully while the lights are still flashing.</answer>
+			<answer correct="y">stay stopped until the lights stop flashing.</answer>
+			<answer>check both ways and then drive on.</answer>
+			<answer>wait for 15 seconds and then drive on.</answer>
+		</item>
+	    <item number="36">
+			<question>Can you stop on a bus stop in a private motor vehicle?</question>
+			<image>/assets/motoring/rcq/qImg/q036.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 80 of the Official New Zealand Road Code.</respond>
+			<answer>Only between midnight and 6 am.</answer>
+			<answer correct="y">Under no circumstances.</answer>
+			<answer>When dropping off passengers.</answer>
+			<answer>Only if it is for less than 5 minutes.</answer>
+		</item>
+	    <item number="37">
+			<question>For the purpose of applying the give way rule, how should entrance ways in to public areas (car parks) be treated?</question>
+			<image>/assets/motoring/rcq/qImg/q037.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 57 of the Official New Zealand Road Code.</respond>
+			<answer>As turning bays.</answer>
+			<answer>As pedestrian crossings.</answer>
+			<answer correct="y">As intersections.</answer>
+			<answer>As merging lanes.</answer>
+		</item>
+		<item number="38">
+			<question>This sign means the speed for safe and comfortable driving around the curve is 65 km/h.</question>
+			<image>/assets/motoring/rcq/qImg/q062.jpg</image>
+			<respond>The correct answer is True. For more information about this question refer to page 116 of the Official New Zealand Road Code</respond>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+	    <item number="39">
+			<question>If driving in a 50 km/h area, the horn on your vehicle should not be used:</question>
+			<image>/assets/motoring/rcq/qImg/q039.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 131 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">between 11 pm and 7 am, except in emergencies.</answer>
+			<answer>between sunset and sunrise, except in emergencies.</answer>
+			<answer>near schools or parks.</answer>
+			<answer>near sports fields or churches.</answer>
+		</item>
+	    <item number="40">
+			<question>If your vehicle breaks down on a motorway, you should:</question>
+			<image>/assets/motoring/rcq/qImg/q007.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 52 of the Official New Zealand Road Code.</respond>
+			<answer>walk to get help.</answer>
+			<answer>wave down a passing vehicle.</answer>
+			<answer correct="y">lift up the bonnet and boot of your vehicle.</answer>
+			<answer>push your vehicle to the nearest off-ramp.</answer>
+		</item>	
+		<item number="41">
+			<question>What rule should you use to judge a safe following distance in wet, frosty or icy conditions if driving a car?</question>
+			<image>/assets/motoring/rcq/qImg/q041.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 86 of the Official New Zealand Road Code.</respond>
+			<answer>The 1-second rule.</answer>
+			<answer>The 2-second rule.</answer>
+			<answer>The 3-second rule.</answer>
+			<answer correct="y">The 4-second rule.</answer>
+		</item>
+		<item number="42">
+			<question>You are in the left-hand lane at traffic signals. You are waiting to turn left. At which of these traffic signals may you move on?</question>
+			<image>/assets/motoring/rcq/qImg/q42.gif</image>
+			<respond>The correct answer is B. For more information about this question refer to page 67 of the Official New Zealand Road Code.</respond>
+			<answer> </answer>
+			<answer correct="y"> </answer>
+			<answer> </answer>
+			<answer> </answer>
+		</item>
+		<item number="43">
+			<question>If yellow traffic signals are flashing it means:</question>
+			<image>/assets/motoring/rcq/qImg/q043.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 65 of the Official New Zealand Road Code.</respond>
+			<answer>that a crash has just happened.</answer>
+			<answer correct="y">the traffic signals are not working, apply the give way rules.</answer>
+			<answer>vehicles may only proceed straight ahead and not turn.</answer>
+			<answer>emergency vehicles are about to come through.</answer>
+		</item>	
+		<item number="44">
+			<question>You can drive a moped on a car licence.</question>
+			<image>/assets/motoring/rcq/qImg/q044.jpg</image>
+			<respond>The correct answer is True. For more information about this question refer to page 178 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>					
+		<item number="45">
+			<question>When following a vehicle on a dusty metal (unsealed) road, you should:</question>
+			<image>/assets/motoring/rcq/qImg/q045.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 95 of the Official New Zealand Road Code.</respond>
+			<answer>keep close to the other vehicles.</answer>
+			<answer>drive down the centre of the road.</answer>
+			<answer correct="y">adjust your speed to suit the conditions.</answer>
+			<answer>pass the vehicle in front of you.</answer>
+		</item>	
+		<item number="46">
+			<question> When passing a bus displaying a ‘School’ sign that has stopped to let children on or off, you must not drive faster than:</question>
+			<image>/assets/motoring/rcq/qImg/q046.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 115 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">20 km/h.</answer>
+			<answer>25 km/h.</answer>
+			<answer>30 km/h.</answer>
+			<answer>35 km/h.</answer>
+		</item>
+		<item number="47">
+			<question>When driving in foggy weather, you should:</question>
+			<image>/assets/motoring/rcq/qImg/q015.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 87 of the Official New Zealand Road Code.</respond>
+			<answer>stay close to the vehicle ahead of you.</answer>
+			<answer correct="y">turn your vehicle headlights onto dip.</answer>
+			<answer>use the centre line as a guide.</answer>
+			<answer>turn your vehicle park lights on.</answer>
+		</item>
+		<item number="48">
+			<question>You are coming up to a one-lane bridge and you see this sign. What must you do?</question>
+			<image>/assets/motoring/rcq/qImg/q086.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 76 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Give way to any oncoming vehicles.</answer>
+			<answer>Only give way to any larger oncoming vehicles.</answer>
+			<answer>Drive straight ahead without stopping.</answer>
+			<answer>Drive straight ahead but keep to the far left.</answer>
+		</item>
+		<item number="49">
+			<question>When should you use the 2-second rule?</question>
+			<image>/assets/motoring/rcq/qImg/q049.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 37 of the Official New Zealand Road Code.</respond>
+			<answer>When reversing out of a driveway.</answer>
+			<answer correct="y">When following other vehicles at the same speed.</answer>
+			<answer>When giving way at a pedestrian crossing.</answer>
+			<answer>When using the indicators on your vehicle.</answer>
+		</item>
+		<item number="50">
+			<question>When coming up to a pedestrian crossing without a raised traffic island, what must you do?</question>
+			<image>/assets/motoring/rcq/qImg/pedestrian-crossing-no-island.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 164 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Slow down and be ready to stop for pedestrians.</answer>
+			<answer>Speed up before pedestrians cross.</answer>
+			<answer>Sound the horn on your vehicle to warn pedestrians.</answer>
+			<answer>Slow down to 30 km/h.</answer>
+		</item>	
+		<item number="51">
+			<question>When parking downhill on a steep road, the 'Road code' suggests that you should:</question>
+			<image>/assets/motoring/rcq/qImg/q051.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 79 of the Official New Zealand Road Code.</respond>
+			<answer>leave your keys in the vehicle in case the brakes fail.</answer>
+			<answer>turn the front wheels of your vehicle away from the kerb and leave the vehicle in first gear.</answer>
+			<answer correct="y">turn the front wheels of your vehicle towards the kerb and leave the vehicle in reverse gear.</answer>
+			<answer>leave the wheels of your vehicle straight ahead and make sure that the handbrake is on.</answer>
+		</item>	
+		<item number="52">
+			<question>You are driving downhill on a steep, narrow road and a vehicle is coming up the hill. You should:</question>
+			<image>/assets/motoring/rcq/qImg/q051.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 131 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">pull over to the left and give way to the vehicle coming up the hill.</answer>
+			<answer>flash the headlights of your vehicle at the vehicle coming up the hill.</answer>
+			<answer>sound the horn of your vehicle to get the vehicle coming up the hill out of the way.</answer>
+			<answer>do nothing, the vehicle coming up the hill should give way to you.</answer>
+		</item>	
+		<item number="53">
+			<question>When may you park your vehicle over a fire hydrant?</question>
+			<image>/assets/motoring/rcq/qImg/q053.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 80 of the Official New Zealand Road Code.</respond>
+			<answer>A mobility card is displayed in the front window.</answer>
+			<answer>It is not left unattended for less than 10 minutes.</answer>
+			<answer correct="y">There is someone with the vehicle who can move it </answer>
+			<answer>If your vehicle breaks down.</answer>
+		</item>
+		<item number="54">
+			<question>What does this marking mean?</question>
+			<image>/assets/motoring/rcq/qImg/road-marking.gif</image>
+			<respond>The correct answer is B. For more information about this question refer to page 80 of the Official New Zealand Road Code.</respond>
+			<answer>5 hours.</answer>
+			<answer correct="y">Fire hydrant.</answer>
+			<answer>Fire hose. </answer>
+			<answer>Fire hazard.</answer>
+		</item>
+		<item number="55">
+			<question>This sign tells you that you are coming up to a railway level crossing. What should you do?</question>
+			<image>/assets/motoring/rcq/qImg/railway-cross-sign.gif</image>
+			<respond>The correct answer is A. For more information about this question refer to page 73 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Slow down so that you can look both ways to check that the crossing is clear.</answer>
+			<answer>Speed up to drive over the crossing as quickly as possible.</answer>
+			<answer>Stop to check whether the crossing is clear.</answer>
+			<answer>Turn your vehicle indicators on before driving over the crossing. </answer>
+		</item>	
+		<item number="56">
+			<question>You don't have to do anything if your doctor gives you medication as medicine does not affect your driving.</question>
+			<image>/assets/motoring/rcq/qImg/q056.jpg</image>
+			<respond>The correct answer is False. For more information about this question refer to page 117 of the Official New Zealand Road Code</respond>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>	
+		<item number="57">
+			<question>A broken yellow line painted close to the edge of the road means you may stop or park your vehicle there at any time.</question>
+			<image>/assets/motoring/rcq/qImg/q057.jpg</image>
+			<respond>The correct answer is False. For more information about this question refer to page 80 of the Official New Zealand Road Code.</respond>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item number="58">
+			<question>What does a reflectorised triangle placed on the side of the road mean?</question>
+			<image>/assets/motoring/rcq/qImg/warning-triangle.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 137 of the Official New Zealand Road Code.</respond>
+			<answer>There is a pothole in the road.</answer>
+			<answer correct="y">There is a breakdown ahead.</answer>
+			<answer>There is flooding on the road.</answer>
+			<answer>There is a police officer directing traffic.</answer>
+		</item>
+		<item number="59">
+			<question>You MUST dip the headlights on your vehicle when:</question>
+			<image>/assets/motoring/rcq/qImg/q011.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 88 of the Official New Zealand Road Code.</respond>
+			<answer>coming up to an intersection.</answer>
+			<answer>driving in city shopping areas.</answer>
+			<answer>driving on a winding road.</answer>
+			<answer correct="y">you are following other vehicles.</answer>
+		</item>
+		<item number="60">
+			<question>After driving through surface water, you should:</question>
+			<image>/assets/motoring/rcq/qImg/q060.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 86 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">pump your vehicle brakes carefully.</answer>
+			<answer>not use the brakes on your vehicle.</answer>
+			<answer>brake heavily.</answer>
+			<answer>check that the headlights on your vehicle are working.</answer>
+		</item>
+		<item number="61">
+			<question>You must turn your vehicle headlights on:</question>
+			<image>/assets/motoring/rcq/qImg/q011.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 87 of the Official New Zealand Road Code.</respond>
+			
+			<answer>15 minutes after sunset until 15 minutes before sunrise.</answer>
+			<answer correct="y">30 minutes after sunset until 30 minutes before sunrise.</answer>
+			<answer>45 minutes after sunset until 45 minutes before sunrise.</answer>
+			<answer>1 hour after sunset until 1 hour before sunrise.</answer>
+		</item>
+		<item number="62">
+			<question>The number on this sign shows:</question>
+			<image>/assets/motoring/rcq/qImg/q062.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 116 of the Official New Zealand Road Code.</respond>
+			<answer>the fastest speed to drive around the curve.</answer>
+			<answer>the speed in the right-hand lane.</answer>
+			<answer correct="y">the safest speed to drive around the curve.</answer>
+			<answer>the distance to the next intersection.</answer>
+		</item>
+		<item number="63">
+			<question>When coming up to a one-lane bridge, what does this sign indicate?</question>
+			<image>/assets/motoring/rcq/qImg/one-lane-bridge-sign.gif</image>
+			<respond>The correct answer is B. For more information about this question refer to page 77 of the Official New Zealand Road Code.</respond>
+			<answer>You must give way.</answer>
+			<answer correct="y">You have the right of way.</answer>
+			<answer>You must stop. </answer>
+			<answer>You must slow down.</answer>
+		</item>
+		<item number="64">
+			<question>What is the speed limit in a limited speed zone when hazardous conditions exist?</question>
+			<image>/assets/motoring/rcq/qImg/lsz-sign.gif</image>
+			<respond>The correct answer is D. For more information about this question refer to page 114 of the Official New Zealand Road Code.</respond>
+			<answer>80 km/h.</answer>
+			<answer>70 km/h.</answer>
+			<answer>60 km/h.</answer>
+			<answer correct="y">50 km/h.</answer>
+		</item>
+		<item number="65">
+			<question>You're coming up to a school crossing and both School Patrol stop signs are held out. When can you drive on?</question>
+			<image>/assets/motoring/rcq/qImg/q065.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 156 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">When both signs have been pulled in.</answer>
+			<answer>When there are no pedestrians on the crossing.</answer>
+			<answer>When the sign on your side of the crossing has been pulled in. </answer>
+			<answer>When there are no pedestrians on your half of the crossing.</answer>
+		</item>
+		<item number="66">
+			<question>When can flush medians be used?</question>
+			<image>/assets/motoring/rcq/qImg/q066.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 30 of the Official New Zealand Road Code.</respond>
+			<answer>When passing other vehicles.</answer>
+			<answer>When stopping at traffic signals.</answer>
+			<answer correct="y">When waiting to turn right.</answer>
+			<answer>When parking for 5 minutes only.</answer>
+		</item>
+		<item number="67">
+			<question>A vehicle can use the flush median strip:</question>
+			<image>/assets/motoring/rcq/qImg/q067.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 30 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">to move into the traffic flow.</answer>
+			<answer>to park for 5 minutes only.</answer>
+			<answer>as a driving lane.</answer>
+			<answer>to unload goods or passengers.</answer>
+		</item>
+		<item number="68">
+			<question>If you see yellow lights flashing at traffic signals, what rule should you apply?</question>
+			<image>/assets/motoring/rcq/qImg/q043.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 65 of the Official New Zealand Road Code.</respond>
+			<answer>The 3-second rule.</answer>
+			<answer>The 4-second rule.</answer>
+			<answer correct="y">The give way rule.</answer>
+			<answer>The keep left rule.</answer>
+		</item>
+		<item number="69">
+			<question>When must you pull over and allow an ambulance or fire engine to pass?</question>
+			<image>/assets/motoring/rcq/qImg/police-flash-lights.gif</image>
+			<respond>The correct answer is C. For more information about this question refer to page 23 of the Official New Zealand Road Code.</respond>
+			<answer>At all times.</answer>
+			<answer>At an uncontrolled intersection.</answer>
+			<answer correct="y">When it is operating its siren or flashing lights.</answer>
+			<answer>When it is turning right and you have the right of way.</answer>
+		</item>
+		<item number="70">
+			<question> When should you apply the 4-second rule?</question>
+			<image>/assets/motoring/rcq/qImg/q049.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 38 of the Official New Zealand Road Code.</respond>
+			<answer>Never. You should only use the 2-second rule.</answer>
+			<answer correct="y">In wet, frosty or icy road conditions.</answer>
+			<answer>When passing other vehicles.</answer>
+			<answer>When waiting for any vehicles coming over a one-way bridge.</answer>
+		</item>
+		<item number="71">
+			<question>What does this sign mean?</question>
+			<image>/assets/motoring/rcq/qImg/q071.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 84 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Vehicles displaying a mobility card may park here.</answer>
+			<answer>Any vehicles may park here.</answer>
+			<answer>You can park your wheelchair here.</answer>
+			<answer>Wheelchair parking space for the next 30 metres.</answer>
+		</item>
+		<item number="72">
+			<question>What do these road markings mean?</question>
+			<image>/assets/motoring/rcq/qImg/road-markings.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 29 of the Official New Zealand Road Code.</respond>
+			<answer>Turning vehicles should enter turning lane at arrows and avoid striped area.</answer>
+			<answer>Turning vehicles should avoid all road markings and use the left-hand lane.</answer>
+			<answer>All vehicles can make a U-turn at these road markings.</answer>
+			<answer correct="y">Turning vehicles drive straight over all road markings and wait to turn right.</answer>
+		</item>
+		<item number="73">
+			<question>What colour is the line painted on a sealed road at a Give Way sign?</question>
+			<image>/assets/motoring/rcq/qImg/q023.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 62 of the Official New Zealand Road Code.</respond>
+			<answer>Yellow.</answer>
+			<answer correct="y">White.</answer>
+			<answer>Grey.</answer>
+			<answer>Red.</answer>
+		</item>
+		<item number="74">
+			<question>When coming up to a Stop sign, where should you stop?</question>
+			<image>/assets/motoring/rcq/qImg/q074.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 62 of the Official New Zealand Road Code.</respond>
+			<answer>With the front wheels of your vehicle on the yellow lines.</answer>
+			<answer>With the rear wheels of your vehicle on the yellow lines.</answer>
+			<answer correct="y">Where you can see all vehicles coming from all directions.</answer>
+			<answer>Where you can only see vehicles coming from your right.</answer>
+		</item>
+		<item number="75">
+			<question>When traffic is merging, what is a good rule to follow?</question>
+			<image>/assets/motoring/rcq/qImg/merge-like-zip.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 48 of the Official New Zealand Road Code.</respond>
+			<answer>Slow down to 40 km/h.</answer>
+			<answer>Speed up to make room behind.</answer>
+			<answer correct="y">Let 1 vehicle in and then go.</answer>
+			<answer>Let 2 vehicles in and go.</answer>
+		</item>
+		<item number="76">
+			<question>What is the safest way to carry goods inside a vehicle?</question>
+			<image>/assets/motoring/rcq/qImg/q076.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 130 of the Official New Zealand Road Code.</respond>
+			<answer>On the driver’s lap.</answer>
+			<answer>On the floor by the driver’s feet.</answer>
+			<answer>On the shelf near the rear window.</answer>
+			<answer correct="y">In a secure place.</answer>
+		</item>
+		<item number="77">
+			<question>When should you use the hazard lights on your vehicle?</question>
+			<image>/assets/motoring/rcq/qImg/q077.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 22 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">When you are changing a tyre on the side of the road.</answer>
+			<answer>When you are coming up to an airport.</answer>
+			<answer>When you are double-parked.</answer>
+			<answer>When you are in a hurry.</answer>
+		</item>
+		<item number="78">
+			<question>You must not open the door of your motor vehicle if:</question>
+			<image>/assets/motoring/rcq/qImg/q078.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 131 of the Official New Zealand Road Code.</respond>
+			<answer>you are parked within 10 metres of a bus stop.</answer>
+			<answer>you are likely to scratch the paint of your vehicle.</answer>
+			<answer>the car radio in your vehicle is playing loud music.</answer>
+			<answer correct="y">you are likely to hurt any person.</answer>
+		</item>
+		<item number="79">
+			<question>What does this sign mean?</question>
+			<image>/assets/motoring/rcq/qImg/accident-sign.gif</image>
+			<respond>The correct answer is A. For more information about this question refer to page 115 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">There has been a crash - slow down to 20 km/h when passing this sign until you have passed the crash.</answer>
+			<answer>There have been crashes here in the past - slow down.</answer>
+			<answer>There has been a crash - but the road is clear now.</answer>
+			<answer>There has been a crash - stop immediately.</answer>
+		</item>
+		<item number="80">
+			<question>A white diamond painted on the road means that you are coming up to:</question>
+			<image>/assets/motoring/rcq/qImg/q080.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 154 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">a pedestrian crossing.</answer>
+			<answer>traffic signals.</answer>
+			<answer>a roundabout.</answer>
+			<answer>an intersection.</answer>
+		</item>
+		<item number="81">
+			<question>After driving through surface water, you should:</question>
+			<image>/assets/motoring/rcq/qImg/q060.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 86 of the Official New Zealand Road Code.</respond>
+			<answer>stop and wait for your vehicle to dry out.</answer>
+			<answer>not brake for the next 500 metres.</answer>
+			<answer>brake heavily 2 or 3 times.</answer>
+			<answer correct="y">pump your vehicle brakes gently.</answer>
+		</item>
+		<item number="82">
+			<question>If you are driving and you want to use a cell phone you should:</question>
+			<image>/assets/motoring/rcq/qImg/q082.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 133 of the Official New Zealand Road Code.</respond>
+			<answer>stop in the flush median to answer calls when it is safe to do so.</answer>
+			<answer>answer the call at the next set of traffic signals.</answer>
+			<answer>slow down to answer the call when it is safe to do so.</answer>
+			<answer correct="y">pull over and stop to use the cell phone when it is safe to do so.</answer>
+		</item>
+		<item number="83">
+			<question>When there are farm animals coming towards you on the road, you should:</question>
+			<image>/assets/motoring/rcq/qImg/q034.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 132 of the Official New Zealand Road Code.</respond>
+			<answer>sound your vehicle horn loudly until the animals move.</answer>
+			<answer correct="y">slow down and pull over to the side of the road.</answer>
+			<answer>get a passenger to clear a path through the animals.</answer>
+			<answer>ask the farmer to move the animals quickly.</answer>
+		</item>
+		<item number="84">
+			<question>What should you do if the vehicle behind you wishes to pass?</question>
+			<image>/assets/motoring/rcq/qImg/q026.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 40 of the Official New Zealand Road Code.</respond>
+			<answer>Move to the centre so that they cannot pass.</answer>
+			<answer>Speed up so that they will not need to pass.</answer>
+			<answer correct="y">Move as far to the left side of the road as is safe.</answer>
+		</item>
+		<item number="85">
+			<question>When following another vehicle on a dusty road, you should:</question>
+			<image>/assets/motoring/rcq/qImg/q045.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 95 of the Official New Zealand Road Code.</respond>
+			<answer>speed up to get past.</answer>
+			<answer>turn your vehicle windscreen wipers on.</answer>
+			<answer correct="y">stay back from the dust cloud.</answer>
+			<answer>turn your vehicle headlights on.</answer>
+		</item>
+		<item number="86">
+			<question>What should you do when you come up to a one-lane bridge?</question>
+			<image>/assets/motoring/rcq/qImg/q086.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 76 of the Official New Zealand Road Code.</respond>
+			<answer>Sound your vehicle horn and drive slowly over the bridge.</answer>
+			<answer>Turn your vehicle headlights on and drive quickly over the bridge.</answer>
+			<answer correct="y">Slow down and check for any oncoming vehicles before driving on.</answer>
+			<answer>Drive on and make sure any oncoming vehicles reverse off the bridge.</answer>
+		</item>
+		<item number="87">
+			<question>Are you allowed to drive a vehicle towing a trailer with a load that is not tied on properly?</question>
+			<image>/assets/motoring/rcq/qImg/q087.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 152 of the Official New Zealand Road Code.</respond>
+			<answer>Yes – if you drive at less than 20 km/h.</answer>
+			<answer>Yes – if you put a white flag on the right-hand corner.</answer>
+			<answer>Yes – if you think it will not come off the trailer.</answer>
+			<answer correct="y">No – not at all.</answer>
+		</item>
+		<item number="88">
+			<question>What does this traffic signal mean?</question>
+			<image>/assets/motoring/rcq/qImg/q043.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 65 of the Official New Zealand Road Code.</respond>
+			<answer>Drive on before the signal changes to red.</answer>
+			<answer>Drive on because the signal will turn green.</answer>
+			<answer correct="y">Stop if you can do so safely.</answer>
+			<answer>Stop only if traffic is in the way.</answer>
+		</item>	
+		<item number="89">
+			<question>What does this road marking mean?</question>
+			<image>/assets/motoring/rcq/qImg/road-marking.gif</image>
+			<respond>The correct answer is B. For more information about this question refer to page 80 of the Official New Zealand Road Code.</respond>
+			<answer>Taxi stand.</answer>
+			<answer correct="y">Fire hydrant.</answer>
+			<answer>Railway level crossing ahead.</answer>
+			<answer>Pedestrian crossing ahead.</answer>
+		</item>
+		<item number="90">
+			<question>What does this sign mean?</question>
+			<image>/assets/motoring/rcq/qImg/q090.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 73 of the Official New Zealand Road Code.</respond>
+			<answer>Children's playground ahead.</answer>
+			<answer>Railway station ahead.</answer>
+			<answer correct="y">Railway level crossing ahead.</answer>
+			<answer>Railway museum ahead.</answer>
+		</item>	
+		<item number="91">
+			<question>During what period is there a restriction on sounding the horn on your vehicle in a 50 km/h area?</question>
+			<image>/assets/motoring/rcq/qImg/q039.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 140 of the Official New Zealand Road Code.</respond>
+			<answer>Between the hours 10 am and 6 pm, except in an emergency.</answer>
+			<answer>Between the hours 10 pm and 6 pm, except in an emergency.</answer>
+			<answer>Between the hours 11 pm and 6 am, except in an emergency.</answer>
+			<answer correct="y">Between the hours 11 pm and 7 am, except in an emergency.</answer>
+		</item>
+		<item number="92">
+			<question>When are you allowed to pass another vehicle?</question>
+			<image>/assets/motoring/rcq/qImg/q092.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 38 of the Official New Zealand Road Code.</respond>
+			<answer>When you are coming up to a blind corner or blind bend.</answer>
+			<answer>When a vehicle has stopped at a pedestrian crossing.</answer>
+			<answer correct="y">When you can see at least 100 metres of clear road in front of you once you have finished passing.</answer>
+			<answer>When you are less than 10 metres away from a railway level crossing.</answer>
+		</item>
+		<item number="93">
+			<question>What should you do when driving past a horse and rider?</question>
+			<image>/assets/motoring/rcq/qImg/q022.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 162 of the Official New Zealand Road Code.</respond>
+			<answer>Flash your vehicle headlights to warn the rider.</answer>
+			<answer correct="y">Slow down and pass carefully.</answer>
+			<answer>Sound your vehicle horn to warn the rider.</answer>
+			<answer>Speed up and pass quickly.</answer>
+		</item>
+		<item number="94">
+			<question>The bonnet of your vehicle lifts up while you are driving and you cannot see. What should you do?</question>
+			<image>/assets/motoring/rcq/qImg/q094.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 109 of the Official New Zealand Road Code.</respond>
+			<answer>Turn your vehicle headlights on and look out of the side window.</answer>
+			<answer correct="y">Brake smoothly and move over to the left side of the road.</answer>
+			<answer>Steer your vehicle straight ahead and stop as quickly as you can.</answer>
+			<answer>Speed up and move to the left side of the road.</answer>
+		</item>
+		<item number="95">
+			<question>What does this sign mean?</question>
+			<image>/assets/motoring/rcq/qImg/train-sign.gif</image>
+			<respond>The correct answer is C. For more information about this question refer to page 73 of the Official New Zealand Road Code.</respond>
+			<answer>Children's playground ahead.</answer>
+			<answer>Railway station ahead.</answer>
+			<answer correct="y">Railway crossing ahead.</answer>
+			<answer>Railway museum ahead.</answer>
+		</item>
+		<item number="96">
+			<question>When School Patrol signs are held out, as a driver you must:</question>
+			<image>/assets/motoring/rcq/qImg/q065.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 156 of the Official New Zealand Road Code.</respond>
+			<answer>wait until the supervisor of the school patrol lets you go.</answer>
+			<answer>stop until there are no pedestrians on your side of the crossing.</answer>
+			<answer correct="y">stop until both signs have been pulled in.</answer>
+			<answer>wait until there are no children on both sides of the crossing.</answer>
+		</item>
+		<item number="97">
+			<question>What must you do when you hear a siren or see red flashing lights from an ambulance or fire engine?</question>
+			<image>/assets/motoring/rcq/qImg/police-flash-lights.gif</image>
+			<respond>The correct answer is C. For more information about this question refer to page 23 of the Official New Zealand Road Code.</respond>
+			<answer>Speed up to get out of the way.</answer>
+			<answer>Drive up onto the footpath.</answer>
+			<answer correct="y">Pull over and allow it to pass.</answer>
+			<answer>Keep driving as you were.</answer>
+		</item>
+		<item number="98">
+			<question>A white diamond painted on the road means that there is:</question>
+			<image>/assets/motoring/rcq/qImg/q080.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 154 of the Official New Zealand Road Code.</respond>
+			<answer>a school ahead.</answer>
+			<answer correct="y">a pedestrian crossing ahead.</answer>
+			<answer>a fire station ahead.</answer>
+			<answer>a dangerous intersection ahead.</answer>
+		</item>
+		<item number="99">
+			<question>You are turning right at traffic signals showing a red arrow pointing to the right. You should:</question>
+			<image>/assets/motoring/rcq/qImg/go-right-red-arrow-light.gif</image>
+			<respond>The correct answer is B. For more information about this question refer to page 66 of the Official New Zealand Road Code.</respond>
+			<answer>drive on but give way to all oncoming vehicles.</answer>
+			<answer correct="y">stop if you are travelling in the direction the arrow is pointing.</answer>
+			<answer>drive on straight ahead only if it is safe.</answer>
+			<answer>drive on because all oncoming vehicles are stopped.</answer>
+		</item>
+		<item number="100">
+			<question>Passengers in your vehicle are 15 years or over. Who is responsible for making sure they wear a safety belt?</question>
+			<image>/assets/motoring/rcq/qImg/q100.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 135 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">The passengers themselves.</answer>
+			<answer>The parents of the passengers.</answer>
+			<answer>You as the driver of the vehicle.</answer>
+			<answer>Other passengers in your vehicle.</answer>
+		</item>
+		<item number="101">
+			<question>What does a blue reflector (cat's eye) placed on the road mean?</question>
+			<image>/assets/motoring/rcq/qImg/q101.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 90 of the Official New Zealand Road Code.</respond>
+			<answer>The left side of the road.</answer>
+			<answer>The centre of the road.</answer>
+			<answer>No passing.</answer>
+			<answer correct="y">Fire hydrant.</answer>
+		</item>
+		<item number="102">
+			<question>What is the closest distance your vehicle may be parked to a vehicle entrance?</question>
+			<image>/assets/motoring/rcq/qImg/q102.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 80 of the Official New Zealand Road Code.</respond>
+			<answer>0.5 metre.</answer>
+			<answer>0.75 metre.</answer>
+			<answer correct="y">1.00 metre.</answer>
+			<answer>1.25 metres.</answer>
+		</item>
+		<item number="103">
+			<question>What colour are temporary warning signs?</question>
+			<image>/assets/motoring/rcq/qImg/temporary-warning-sign.gif</image>
+			<respond>The correct answer is C. For more information about this question refer to page 13 of the Official New Zealand Road Code.</respond>
+			<answer>Blue.</answer>
+			<answer>Green.</answer>
+			<answer correct="y">Orange.</answer>
+			<answer>Red.</answer>
+		</item>
+		<item number="104">
+			<question>You wish to make a right turn on a narrow country road. There is a vehicle coming towards you and traffic behind you. The safest option is to:</question>
+			<image>/assets/motoring/rcq/qImg/q104.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 29 of the Official New Zealand Road Code.</respond>
+			<answer>wait in the centre of the road and turn when it is clear.</answer>
+			<answer>drive straight ahead and do a U-turn when the road is clear.</answer>
+			<answer>decide not to turn and drive straight ahead.</answer>
+			<answer correct="y">move to the left side of the road and turn when the road is clear.</answer>
+		</item>
+		<item number="105">
+			<question>One or more yellow lights flashing at traffic signals means:</question>
+			<image>/assets/motoring/rcq/qImg/q043.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 65 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">be careful and apply the give way rule.</answer>
+			<answer>drive on but increase your speed.</answer>
+			<answer>stop until the lights no longer flash.</answer>
+			<answer>move to the left-hand side of the road.</answer>
+		</item>
+		<item number="106">
+			<question>When may you park your vehicle on a loading zone?</question>
+			<image>/assets/motoring/rcq/qImg/q106.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 83 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">You are loading or unloading people or goods.</answer>
+			<answer>There is no other vehicle on it.</answer>
+			<answer>It is between the hours of 12.00 am and 6.00 am.</answer>
+			<answer>It is between the hours of 6.00 pm and 6.00 am.</answer>
+		</item>
+		<item number="107">
+			<question>What must be displayed on the back of a trailer being towed at night?</question>
+			<image>/assets/motoring/rcq/qImg/q033.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 54 of the Official New Zealand Road Code.</respond>
+			<answer>A blue light.</answer>
+			<answer correct="y">A red light.</answer>
+			<answer>A white flag.</answer>
+			<answer>A white light.</answer>
+		</item>
+		<item number="108">
+			<question>What should you do after driving through surface water?</question>
+			<image>/assets/motoring/rcq/qImg/q060.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 91 of the Official New Zealand Road Code.</respond>
+			<answer>Swerve carefully from side to side to dry out the brakes on your vehicle.</answer>
+			<answer>Move to the left of the road and dry out the wheels of your vehicle.</answer>
+			<answer>Drive with your vehicle handbrake on for at least 5 minutes.</answer>
+			<answer correct="y">Pump your vehicle brakes carefully several times to dry them out.</answer>
+		</item>
+		<item number="109">
+			<question>Alcohol slows down your reactions when driving.</question>
+			<image>/assets/motoring/rcq/qImg/q109.jpg</image>
+			<respond>The correct answer is True. For more information about this question refer to page 116 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item number="110">
+			<question>Before changing lanes, you need to:</question>
+			<image>/assets/motoring/rcq/qImg/q007.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 19 of the Official New Zealand Road Code.</respond>
+			<answer>give no signal.</answer>
+			<answer>signal for 1 second.</answer>
+			<answer>signal for 2 seconds.</answer>
+			<answer correct="y">signal for 3 seconds.</answer>
+		</item>
+		<item number="111">
+			<question>What should you do if an ambulance comes up behind you, flashing red lights or sounding its siren?</question>
+			<image>/assets/motoring/rcq/qImg/police-flash-lights.gif</image>
+			<respond>The correct answer is C. For more information about this question refer to page 23 of the Official New Zealand Road Code.</respond>
+			<answer>Speed up to avoid delay.</answer>
+			<answer>Put your vehicle hazard lights on and drive on at the same speed.</answer>
+			<answer correct="y">Slow down, pull over and allow the ambulance to pass.</answer>
+			<answer>Flash your vehicle headlights to warn oncoming traffic.</answer>
+		</item>
+		<item number="112">
+			<question>In addition to checking it is safe to move out from the kerb into the traffic flow, what must you do?</question>
+			<image>/assets/motoring/rcq/qImg/q112.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 19 of the Official New Zealand Road Code.</respond>
+			<answer>Accelerate quickly into the traffic flow.</answer>
+			<answer>Move slowly into a space in the traffic flow.</answer>
+			<answer correct="y">Signal for at least 3 seconds.</answer>
+			<answer>Reverse away from the kerb.</answer>
+		</item>
+		<item number="113">
+			<question>Before making a lane change to your left, you must signal for at least 3 seconds and:</question>
+			<image>/assets/motoring/rcq/qImg/q049.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 26 of the Official New Zealand Road Code.</respond>
+			<answer>use your vehicle brake lights to warn other road users.</answer>
+			<answer>use your vehicle hazard lights to warn other road users.</answer>
+			<answer correct="y">check your blind spot before moving left.</answer>
+			<answer>ensure that there are no oncoming vehicles.</answer>
+		</item>
+		<item number="114">
+			<question>What should you do when another vehicle is following you very closely?</question>
+			<image>/assets/motoring/rcq/qImg/q026.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 101 of the Official New Zealand Road Code.</respond>
+			<answer>Speed up to get further ahead.</answer>
+			<answer>Brake suddenly to warn them.</answer>
+			<answer>Flick your vehicle lights and wave your arm.</answer>
+			<answer correct="y">Slow down, move to the left and allow the vehicle to pass.</answer>
+		</item>
+		<item number="115">
+			<question>What is the meaning of a yellow broken line painted on the road near the kerb?</question>
+			<image>/assets/motoring/rcq/qImg/q057.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 80 of the Official New Zealand Road Code.</respond>
+			<answer>You may not pass.</answer>
+			<answer>Only trucks may park here.</answer>
+			<answer>You may stop for no more than 5 minutes.</answer>
+			<answer correct="y">No vehicles may stop here.</answer>
+		</item>
+		<item number="116">
+			<question>You wish to move your vehicle out of a parking space into the traffic flow. What must you do before you move?</question>
+			<image>/assets/motoring/rcq/qImg/q116.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 20 of the Official New Zealand Road Code.</respond>
+			<answer>Flash your vehicle indicators for 1 second.</answer>
+			<answer correct="y">Signal with your vehicle indicators for at least 3 seconds.</answer>
+			<answer>Turn on your vehicle parking lights.</answer>
+			<answer>Use your vehicle stop lights.</answer>
+		</item>
+		<item number="117">
+			<question>When driving into bright sunlight, you should use sunglasses and your vehicle sun visors for safety. You are also advised to:</question>
+			<image>/assets/motoring/rcq/qImg/q117.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 93 of the Official New Zealand Road Code.</respond>
+			<answer>turn the headlights of your vehicle on.</answer>
+			<answer>drive safely on the far left of the road.</answer>
+			<answer>look at and drive close to the centre of the road.</answer>
+			<answer correct="y">pull over or stop and wait for a few minutes.</answer>
+		</item>
+		<item number="118">
+			<question>You are driving on a country road at night when your vehicle headlights suddenly go out. What is the safest thing to do?</question>
+			<image>/assets/motoring/rcq/qImg/q118.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 110 of the Official New Zealand Road Code.</respond>
+			<answer>Carry on driving to the nearest garage with your vehicle hazard lights on.</answer>
+			<answer>Slow down and drive on the far left side of the road.</answer>
+			<answer>Carry on driving to the nearest garage with your vehicle’s interior lights on.</answer>
+			<answer correct="y">Slow down, move off the road gradually, stop and turn your vehicle hazard lights on.</answer>
+		</item>
+		<item number="119">
+			<question>What is the maximum legal speed for a car towing a trailer on the open road?</question>
+			<image>/assets/motoring/rcq/qImg/q033.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 54 of the Official New Zealand Road Code.</respond>
+			<answer>70 km/h.</answer>
+			<answer>80 km/h.</answer>
+			<answer correct="y">90 km/h.</answer>
+			<answer>100 km/h.</answer>
+		</item>
+		<item number="120">
+			<question>What should you do when you are coming up to traffic signals and the signals change from green to yellow?</question>
+			<image>/assets/motoring/rcq/qImg/q043.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 65 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Stop at the signals if you can do so safely.</answer>
+			<answer>Speed up before the light changes to red.</answer>
+			<answer>Stop even if it means stopping in the middle of the intersection.</answer>
+			<answer>Turn hard to the left and stop around the corner.</answer>
+		</item>
+		<item number="121">
+			<question>What is the minimum depth of tread you must have on the tyres of your vehicle?</question>
+			<image>/assets/motoring/rcq/qImg/q121.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 148 of the Official New Zealand Road Code.</respond>
+			<answer>2.0 mm.</answer>
+			<answer correct="y">1.5 mm.</answer>
+			<answer>1.0 mm.</answer>
+			<answer>0.5 mm.</answer>
+		</item>
+		<item number="122">
+			<question>When must you always dip your vehicle headlights?</question>
+			<image>/assets/motoring/rcq/qImg/q122.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 88 of the Official New Zealand Road Code.</respond>
+			<answer>In a tunnel.</answer>
+			<answer>On a motorway.</answer>
+			<answer correct="y">When following other vehicles.</answer>
+			<answer>When coming up to a railway level crossing.</answer>
+		</item>
+		<item number="123">
+			<question>You must not move on to a railway level crossing until:</question>
+			<image>/assets/motoring/rcq/qImg/railway-cross-sign.gif</image>
+			<respond>The correct answer is B. For more information about this question refer to page 73 of the Official New Zealand Road Code.</respond>
+			<answer>you are going fast enough so that you do not stop on the crossing.</answer>
+			<answer correct="y">you see that the lines are clear both ways and there are no vehicles stopped in front of you.</answer>
+			<answer>you have the headlights of your vehicle turned onto high beam.</answer>
+			<answer>you sound the horn on your vehicle.</answer>
+		</item>
+		<item number="124">
+			<question>What does this sign mean?</question>
+			<image>/assets/motoring/rcq/qImg/q211.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 113 of the Official New Zealand Road Code.</respond>
+			<answer>Do not drive slower than 50 km/h.</answer>
+			<answer>Do not drive faster than 50 km/h unless the road is clear.</answer>
+			<answer correct="y">Do not drive faster than 50 km/h.</answer>
+			<answer>There is a rest area 50 metres ahead.</answer>
+		</item>
+		<item number="125">
+			<question>To help you from being blinded by the headlights of an oncoming vehicle, you should:</question>
+			<image>/assets/motoring/rcq/qImg/q011.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 89 of the Official New Zealand Road Code.</respond>
+			<answer>turn the headlights of your vehicle off for a short time.</answer>
+			<answer>turn the headlights of your vehicle onto high beam.</answer>
+			<answer correct="y">slow down and if you cannot see, stop.</answer>
+			<answer>watch the headlights of the oncoming vehicle to help you see where you are on the road.</answer>
+		</item>
+		<item number="126">
+			<question>What is the speed limit for vehicles passing a school bus that has stopped to let children on or off?</question>
+			<image>/assets/motoring/rcq/qImg/q046.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 115 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">20 km/h.</answer>
+			<answer>30 km/h.</answer>
+			<answer>40 km/h.</answer>
+			<answer>50 km/h.</answer>
+		</item>
+		<item number="127">
+			<question>What must you do if you want to turn right at traffic signals where a green light is showing?</question>
+			<image>/assets/motoring/rcq/qImg/q127.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 64 of the Official New Zealand Road Code.</respond>
+			<answer>Push your way through the vehicles coming towards you.</answer>
+			<answer correct="y">Give way to vehicles coming towards you.</answer>
+			<answer>Wait until the lights change to red and then turn quickly.</answer>
+			<answer>Turn at once as the vehicles coming towards you will be stopped.</answer>
+		</item>
+		<item number="128">
+			<question>Which of your vehicle's lights do you have on if you are driving in fog?</question>
+			<image>/assets/motoring/rcq/qImg/q015.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 87 of the Official New Zealand Road Code.</respond>
+			<answer>Park lights.</answer>
+			<answer>Headlights on high beam.</answer>
+			<answer>Hazard lights.</answer>
+			<answer correct="y">Dipped headlights.</answer>
+		</item>
+		<item number="129">
+			<question>You can stop or park your vehicle over a fire hydrant (fire plug) if someone stays with the vehicle who can move it.</question>
+			<image>/assets/motoring/rcq/qImg/q053.jpg</image>
+			<respond>The correct answer is True. For more information about this question refer to page 80 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item number="130">
+			<question>What should you do when parking your vehicle next to the kerb when facing down a steep hill?</question>
+			<image>/assets/motoring/rcq/qImg/q051.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 79 of the Official New Zealand Road Code.</respond>
+			<answer>Leave the front wheels of your vehicle straight ahead.</answer>
+			<answer correct="y">Turn the front wheels of your vehicle towards the kerb.</answer>
+			<answer>Turn the front wheels of your vehicle away from the kerb.</answer>
+			<answer>Run the front and back wheels of your vehicle hard against the kerb.</answer>
+		</item>
+		<item number="131">
+			<question>If you are the driver and you hurt somebody in a crash, when must you report it?</question>
+			<image>/assets/motoring/rcq/qImg/q131.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 137 of the Official New Zealand Road Code.</respond>
+			<answer>As soon as you can but within 2 hours.</answer>
+			<answer>As soon as you can but within 6 hours.</answer>
+			<answer correct="y">As soon as you can but within 24 hours.</answer>
+			<answer>As soon as you can but within 1 week.</answer>
+		</item>
+		<item number="132">
+			<question>What must you do before you make a turn to the right?</question>
+			<image>/assets/motoring/rcq/qImg/q132.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 25 of the Official New Zealand Road Code.</respond>
+			<answer>Signal just before you turn.</answer>
+			<answer>Signal only if vehicles are coming towards you.</answer>
+			<answer>Give no signal.</answer>
+			<answer correct="y">Give a right-turn signal for at least 3 seconds.</answer>
+		</item>
+		<item number="133">
+			<question>What should you do if you are driving and become sleepy?</question>
+			<image>/assets/motoring/rcq/qImg/q133.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 123 of the Official New Zealand Road Code.</respond>
+			<answer>Drive on the far left side of the road.</answer>
+			<answer correct="y">Move off to the left of the road and have a rest.</answer>
+			<answer>Speed up so that you can get home quickly.</answer>
+			<answer>Keep on driving but use a lower gear.</answer>
+		</item>
+		<item number="134">
+			<question>What is the speed limit from the time you pass an ‘Accident’ sign until you are past the crash site?</question>
+			<image>/assets/motoring/rcq/qImg/accident-sign.gif</image>
+			<respond>The correct answer is A. For more information about this question refer to page 115 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">20 km/h.</answer>
+			<answer>30 km/h.</answer>
+			<answer>40 km/h.</answer>
+			<answer>50 km/h.</answer>
+		</item>
+		<item number="135">
+			<question>What should you do if you meet farm animals coming towards you on the road?</question>
+			<image>/assets/motoring/rcq/qImg/q034.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 132 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Slow down and move over to the left side of the road.</answer>
+			<answer>Give a long blast with the horn on your vehicle.</answer>
+			<answer>Give a lot of short toots with the horn on your vehicle.</answer>
+			<answer>Race your vehicle engine.</answer>
+		</item>
+		<item number="136">
+			<question>What must you do when you come up to a red light showing at traffic signals?</question>
+			<image>/assets/motoring/rcq/qImg/q136.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 64 of the Official New Zealand Road Code.</respond>
+			<answer>Stop and then go on carefully.</answer>
+			<answer>Go on slowly if no other traffic is coming.</answer>
+			<answer>Stop only if other vehicles are coming from the right.</answer>
+			<answer correct="y">Stop and wait until it changes to a green light.</answer>
+		</item>
+		<item number="137">
+			<question>What must you do when you see two red lights flashing outside a fire station?</question>
+			<image>/assets/motoring/rcq/qImg/q136.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 24 of the Official New Zealand Road Code.</respond>
+			<answer>Slow down and drive on carefully if the way is clear.</answer>
+			<answer>Slow down and stop if any other vehicle is coming.</answer>
+			<answer>Slow down to 20 km/h.</answer>
+			<answer correct="y">Stop until the lights stop flashing.</answer>
+		</item>
+		<item number="138">
+			<question>If you are a driver and have a crash, what must you do FIRST of all?</question>
+			<image>/assets/motoring/rcq/qImg/q013.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 137 of the Official New Zealand Road Code.</respond>
+			<answer>Tell someone at the police station.</answer>
+			<answer>Drive on if you can see that no one is hurt.</answer>
+			<answer correct="y">Stop and check if anyone is hurt and give help.</answer>
+			<answer>Sweep the road clear of broken glass.</answer>
+		</item>
+		<item number="139">
+			<question>You are driving at night and see a vehicle coming towards you with its headlights on high beam. Where should you look?</question>
+			<image>/assets/motoring/rcq/qImg/q011.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 89 of the Official New Zealand Road Code.</respond>
+			<answer>At the vehicle coming towards you.</answer>
+			<answer>At the centre of the road.</answer>
+			<answer correct="y">At the left side of the road.</answer>
+			<answer>At the far right of the road.</answer>
+		</item>
+		<item number="140">
+			<question>How can small amounts of alcohol affect your driving?</question>
+			<image>/assets/motoring/rcq/qImg/q109.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 116 of the Official New Zealand Road Code.</respond>
+			<answer>You can judge your speed more easily.</answer>
+			<answer>Your driving improves.</answer>
+			<answer correct="y">It will alter your senses.</answer>
+			<answer>Your driving reactions will be quicker.</answer>
+		</item>
+		<item number="141">
+			<question>This signal means "I am going to:</question>
+			<image>/assets/motoring/rcq/qImg/q141.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 21 of the Official New Zealand Road Code.</respond>
+			<answer>slow down."</answer>
+			<answer correct="y">turn left."</answer>
+			<answer>move towards the right."</answer>
+			<answer>stop."</answer>
+		</item>
+		<item number="142">
+			<question>You must signal that you are turning to the right:</question>
+			<image>/assets/motoring/rcq/qImg/q142.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 20 of the Official New Zealand Road Code.</respond>
+			<answer>as you are turning.</answer>
+			<answer>only if there are vehicles in front of you.</answer>
+			<answer correct="y">3 seconds or more before you turn.</answer>
+			<answer>only if there are vehicles following behind you.</answer>
+		</item>
+		<item number="143">
+			<question>This sign means that:</question>
+			<image>/assets/motoring/rcq/qImg/q143.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 82 of the Official New Zealand Road Code.</respond>
+			<answer>you may stop your vehicle if there are no buses coming.</answer>
+			<answer>you may stop your vehicle between 6 pm and 8 pm except on Fridays and Saturdays.</answer>
+			<answer>you may stop your vehicle if someone stays with it.</answer>
+			<answer correct="y">you may not stop your vehicle at any time.</answer>
+		</item>	
+		<item number="144">
+			<question>You have a restricted licence. A condition for driving at night without a supervisor is that you MUST NOT drive between:</question>
+			<image>/assets/motoring/rcq/qImg/q144.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 192 of the Road Code study guide.</respond>
+			<answer>8 pm and 8 am.</answer>
+			<answer>7 pm and 8 am.</answer>
+			<answer correct="y">10 pm and 5 am.</answer>
+			<answer>11 pm and 7 am.</answer>
+		</item>
+		<item number="145">
+			<question>What should you do if the vehicle behind you starts to pass you?</question>
+			<image>/assets/motoring/rcq/qImg/q026.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 40 of the Official New Zealand Road Code.</respond>
+			<answer>Move over to the right so that they cannot pass.</answer>
+			<answer>Speed up so that they will not need to pass.</answer>
+			<answer>Signal for them to stay behind you because you think they are going too fast.</answer>
+			<answer correct="y">Move as far to the left side of the road as is safe and do not speed up.</answer>
+		</item>
+		<item number="146">
+			<question>What may you do at traffic signals if there is a green arrow pointing to the right and a red light showing at the same time?</question>
+			<image>/assets/motoring/rcq/qImg/stop-right-green-arrow-light.gif</image>
+			<respond>The correct answer is A. For more information about this question refer to page 67 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">You may turn right.</answer>
+			<answer>You may go straight ahead.</answer>
+			<answer>You must stop until all lights turn green.</answer>
+			<answer>You may turn left or right.</answer>
+		</item>	
+		<item number="147">
+			<question>What does this sign mean?</question>
+			<image>/assets/motoring/rcq/qImg/left-lane-closed-sign.gif</image>
+			<respond>The correct answer is D. For more information about this question refer to page 13 of the Official New Zealand Road Code.</respond>
+			<answer>Cycle lane.</answer>
+			<answer>Keep left.</answer>
+			<answer>Greasy surface.</answer>
+			<answer correct="y">Left-hand lane closed.</answer>
+		</item>
+		<item number="148">
+			<question>Except in an emergency, when may you not use the horn on your vehicle in a 50 km/h area?</question>
+			<image>/assets/motoring/rcq/qImg/q039.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 140 of the Official New Zealand Road Code.</respond>
+			<answer>Between 4 pm and 6 pm.</answer>
+			<answer>Between 2 pm and 4 pm.</answer>
+			<answer>Between midnight and 8 am.</answer>
+			<answer correct="y">Between 11 pm and 7 am.</answer>
+		</item>
+		<item number="149">
+			<question>What does this sign mean?</question>
+			<image>/assets/motoring/rcq/qImg/p40.gif</image>
+			<respond>The correct answer is B. For more information about this question refer to page 82 of the Official New Zealand Road Code.</respond>
+			<answer>You may park your vehicle within the next 40 metres of the sign.</answer>
+			<answer correct="y">You may park your vehicle for no longer than 40 minutes.</answer>
+			<answer>You may park your vehicle for longer than 40 minutes if someone stays in it.</answer>
+			<answer>You may not park your vehicle within the next 40 metres of the sign.</answer>
+		</item>
+		<item number="150">
+			<question>What must you do if glass falls on to the road from your vehicle?</question>
+			<image>/assets/motoring/rcq/qImg/q150.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 132 of the Official New Zealand Road Code.</respond>
+			<answer>Sweep it up within 2 hours.</answer>
+			<answer correct="y">Sweep it up straight away if you can do so safely.</answer>
+			<answer>Sweep it up within 24 hours.</answer>
+			<answer>Tell a police officer.</answer>
+		</item>
+		<item number="151">
+			<question>What should you do when following another vehicle in wet conditions?</question>
+			<image>/assets/motoring/rcq/qImg/q041.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 38 of the Official New Zealand Road Code.</respond>
+			<answer>Drive closer to the vehicle so that you can follow in its tracks.</answer>
+			<answer>Drive with your vehicle handbrake on.</answer>
+			<answer correct="y">Apply the 4-second rule.</answer>
+			<answer>Apply the 2-second rule.</answer>
+		</item>
+		<item number="152">
+			<question>When driving at night, which vehicle lights should you turn on?</question>
+			<image>/assets/motoring/rcq/qImg/q118.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 87 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Headlights.</answer>
+			<answer>Park lights.</answer>
+			<answer>Interior lights.</answer>
+			<answer>Hazard lights.</answer>
+		</item>
+		<item number="153">
+			<question>What is the safest way to drive up to intersections?</question>
+			<image>/assets/motoring/rcq/qImg/q028.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 57 of the Official New Zealand Road Code.</respond>
+			<answer>Looking to the right.</answer>
+			<answer>Travelling at the speed limit.</answer>
+			<answer>Looking to the left.</answer>
+			<answer correct="y">At such a speed that you can stop if you have to.</answer>
+		</item>
+		<item number="154">
+			<question>How close can you park your vehicle to the approach side of a pedestrian crossing where no broken yellow lines have been marked?</question>
+			<image>/assets/motoring/rcq/qImg/q154.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 80 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">6 metres.</answer>
+			<answer>5 metres.</answer>
+			<answer>4 metres.</answer>
+			<answer>3 metres.</answer>
+		</item>
+		<item number="155">
+			<question>How close may you park your vehicle to an intersection where no broken yellow lines have been marked?</question>
+			<image>/assets/motoring/rcq/qImg/q028.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 80 of the Official New Zealand Road Code.</respond>
+			<answer>3 metres.</answer>
+			<answer>4 metres.</answer>
+			<answer>5 metres.</answer>
+			<answer correct="y">6 metres.</answer>
+		</item>
+		<item number="156">
+			<question>When coming up to a roundabout you must give way to all vehicles that will cross your path from your left.</question>
+			<image>/assets/motoring/rcq/qImg/q156.jpg</image>
+			<respond>The correct answer is False. For more information about this question refer to page 68 of the Official New Zealand Road Code</respond>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item number="157">
+			<question>What is the speed limit for vehicles passing or coming towards a school bus that has stopped to let children on or off?</question>
+			<image>/assets/motoring/rcq/qImg/q046.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 115 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">20 km/h.</answer>
+			<answer>30 km/h.</answer>
+			<answer>40 km/h.</answer>
+			<answer>50 km/h.</answer>
+		</item>
+		<item number="158">
+			<question>The 100 speed limit sign shown is the minimum speed you are allowed to drive in good conditions. </question>
+			<image>/assets/motoring/rcq/qImg/q158.jpg</image>
+			<respond>The correct answer is False. For more information about this question refer to page 113 of the Official New Zealand Road Code</respond>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item number="159">
+			<question>What does this sign mean?</question>
+			<image>/assets/motoring/rcq/qImg/q159.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 113 of the Official New Zealand Road Code.</respond>
+			<answer>Do not drive slower than 70 km/h.</answer>
+			<answer correct="y">The maximum speed you can travel is 70 km/h.</answer>
+			<answer>A rest area is 70 metres ahead.</answer>
+			<answer>Do not stop for the next 70 metres.</answer>
+		</item>
+		<item number="160">
+			<question>What must you do FIRST of all, if you are the driver involved in a traffic crash?</question>
+			<image>/assets/motoring/rcq/qImg/q013.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 137 of the Official New Zealand Road Code.</respond>
+			<answer>Report it to the Police.</answer>
+			<answer>Use a telephone and dial 111.</answer>
+			<answer correct="y">Stop and check if anyone is hurt and give help.</answer>
+			<answer>Drive on to the nearest garage.</answer>
+		</item>
+		<item number="161">
+			<question>Who is responsible for making a child under 15 years use a safety belt or a safety seat in a vehicle?</question>
+			<image>/assets/motoring/rcq/qImg/q161.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 143 of the Official New Zealand Road Code.</respond>
+			<answer>The child’s parents.</answer>
+			<answer correct="y">The driver of the vehicle.</answer>
+			<answer>The owner of the vehicle.</answer>
+			<answer>The child.</answer>
+		</item>
+		<item number="162">
+			<question>When does a police officer have the power to arrest you?</question>
+			<image>/assets/motoring/rcq/qImg/q162.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 144 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">If you fail to supply your correct name and address.</answer>
+			<answer>If you have no warrant of fitness for your vehicle.</answer>
+			<answer>If you fail to signal a right turn.</answer>
+			<answer>If you fail to stop at a Stop sign.</answer>
+		</item>
+		<item number="163">
+			<question>As the holder of any class of driver licence you must carry your licence with you at all times when driving.</question>
+			<image>/assets/motoring/rcq/qImg/q144.jpg</image>
+			<respond>The correct answer is True. For more information about this question refer to page 177 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item number="164">
+			<question>You are driving on a road with marked lanes and you are in the lane with an arrow showing a left turn only. You must:</question>
+			<image>/assets/motoring/rcq/qImg/q164.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 31 of the Official New Zealand Road Code.</respond>
+			<answer>drive straight ahead.</answer>
+			<answer correct="y">turn left.</answer>
+			<answer>turn right.</answer>
+			<answer>not signal.</answer>
+		</item>
+		<item number="165">
+			<question>What is the purpose of the two-second rule?</question>
+			<image>/assets/motoring/rcq/qImg/q049.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 37 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">To maintain a safe following distance between you and the vehicle in front.</answer>
+			<answer>As a guide when following another vehicle in the rain.</answer>
+			<answer>To allow warning when reversing from a car park.</answer>
+			<answer>To give other drivers enough warning that you are turning right.</answer>
+		</item>
+		<item number="166">
+			<question>If you are the driver and hurt somebody in a crash, you must report it to a:</question>
+			<image>/assets/motoring/rcq/qImg/q131.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 137 of the Official New Zealand Road Code.</respond>
+			<answer>clerk of the court.</answer>
+			<answer correct="y">police officer.</answer>
+			<answer>Justice of the Peace.</answer>
+			<answer>lawyer.</answer>
+		</item>
+		<item number="167">
+			<question>When may you pass on the left at an intersection, if you can do so safely?</question>
+			<image>/assets/motoring/rcq/qImg/q167.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 40 of the Official New Zealand Road Code.</respond>
+			<answer>When you have the headlights of your vehicle turned on.</answer>
+			<answer>When the vehicle in front is signalling a left turn.</answer>
+			<answer correct="y">When the vehicle in front is signalling a right turn.</answer>
+			<answer>When the vehicle in front is going faster than the speed limit.</answer>
+		</item>
+		<item number="168">
+			<question>When can you park your vehicle on the right-hand side of the road?</question>
+			<image>/assets/motoring/rcq/qImg/q168.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 79 of the Official New Zealand Road Code.</respond>
+			<answer>In a two-way street.</answer>
+			<answer correct="y">In a one-way street where you may park on both sides of the road.</answer>
+			<answer>Up to 1 metre from an intersection.</answer>
+			<answer>If you are not parked over a fire plug.</answer>
+		</item>
+		<item number="169">
+			<question> What is the meaning of a white diamond painted on the road?</question> 
+			<image>/assets/motoring/rcq/qImg/q080.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 154 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">There is a pedestrian crossing ahead.</answer>
+			<answer>There is a school ahead.</answer>
+			<answer>There are traffic signals ahead.</answer>
+		</item>
+		<item number="170">
+			<question>What must you do when you see a School Patrol sign held out across the road?</question>
+			<image>/assets/motoring/rcq/qImg/q065.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 156 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Stop and do not go until the sign is pulled in.</answer>
+			<answer>Slow down to 20 km/h.</answer>
+			<answer>Drive on carefully if there are no people on your side of the crossing.</answer>
+			<answer>Stop and honk your horn to warn any children.</answer>
+		</item>
+		<item number="171">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q171.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 59 of the Official New Zealand Road Code.</respond>
+			<answer>Yes</answer>
+			<answer correct="y">No</answer>
+		</item>
+		<item number="172">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q172.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 59 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Yes</answer>
+			<answer>No</answer>
+		</item>
+		<item number="173">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q173.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 59 of the Official New Zealand Road Code.</respond>
+			<answer>Yes</answer>
+			<answer correct="y">No</answer>
+		</item>
+		<item number="174">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q174.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 59 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Yes</answer>
+			<answer>No</answer>
+		</item>
+		<item number="175">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q175.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 59 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Yes</answer>
+			<answer>No</answer>
+		</item>
+		<item number="176">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q176.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 60 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Yes</answer>
+			<answer>No</answer>
+		</item>
+		<item number="177">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q177.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 60 of the Official New Zealand Road Code.</respond>
+			<answer>Yes</answer>
+			<answer correct="y">No</answer>
+		</item>
+		<item number="178">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q178.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 61 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Yes</answer>
+			<answer>No</answer>
+		</item>
+		<item number="179">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q179.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 59 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Yes</answer>
+			<answer>No</answer>
+		</item>
+		<item number="180">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q180.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 63 of the Official New Zealand Road Code.</respond>
+			<answer>Yes</answer>
+			<answer correct="y">No</answer>
+		</item>
+		<item number="181">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q181.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 63 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Yes</answer>
+			<answer>No</answer>
+		</item>
+		<item number="182">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q182.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 60 of the Official New Zealand Road Code.</respond>
+			<answer>Yes</answer>
+			<answer correct="y">No</answer>
+		</item>
+		<item number="183">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q183.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 63 of the Official New Zealand Road Code.</respond>
+			<answer>Yes</answer>
+			<answer correct="y">No</answer>
+		</item>
+		<item number="184">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q184.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 58 of the Official New Zealand Road Code.</respond>
+			<answer>Yes</answer>
+			<answer correct="y">No</answer>
+		</item>
+		<item number="185">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q185.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 58 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Yes</answer>
+			<answer>No</answer>
+		</item>
+		<item number="186">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q186.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 58 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Yes</answer>
+			<answer>No</answer>
+		</item>
+		<item number="187">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q187.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 58 of the Official New Zealand Road Code.</respond>
+			<answer>Yes</answer>
+			<answer correct="y">No</answer>
+		</item>
+		<item number="188">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q188.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 62 of the Official New Zealand Road Code.</respond>
+			<answer>Yes</answer>
+			<answer correct="y">No</answer>
+		</item>
+		<item number="189">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q189.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 62 of the Official New Zealand Road Code.</respond>
+			<answer>Yes</answer>
+			<answer correct="y">No</answer>
+		</item>
+		<item number="190">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q190.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 62 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Yes</answer>
+			<answer>No</answer>
+		</item>
+		<item number="191">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q191.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 63 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Yes</answer>
+			<answer>No</answer>
+		</item>
+		<item number="192">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q192.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 61 of the Official New Zealand Road Code.</respond>
+			<answer>Yes</answer>
+			<answer correct="y">No</answer>
+		</item>
+		<item number="193">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q193.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 64 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Yes</answer>
+			<answer>No</answer>
+		</item>
+		<item number="194">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q194.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 64 of the Official New Zealand Road Code.</respond>
+			<answer>Yes</answer>
+			<answer correct="y">No</answer>
+		</item>
+		<item number="195">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q195.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 64 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Yes</answer>
+			<answer>No</answer>
+		</item>
+		<item number="196">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q196.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 64 of the Official New Zealand Road Code.</respond>
+			<answer>Yes</answer>
+			<answer correct="y">No</answer>
+		</item>
+		<item number="197">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q197.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 67 of the Official New Zealand Road Code.</respond>
+			<answer>Yes</answer>
+			<answer correct="y">No</answer>
+		</item>
+		<item number="198">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q198.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 68 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Yes</answer>
+			<answer>No</answer>
+		</item>
+		<item number="199">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q199.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 68 of the Official New Zealand Road Code.</respond>
+			<answer>Yes</answer>
+			<answer correct="y">No</answer>
+		</item>
+		<item number="200">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q200.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 61 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Yes</answer>
+			<answer>No</answer>
+		</item>
+		<item number="201">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q201.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 68 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Yes</answer>
+			<answer>No</answer>
+		</item>
+		<item number="202">
+			<question>Does the driver of the blue car have to give way?</question>
+			<image>/assets/motoring/rcq/qImg/q202.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 68 of the Official New Zealand Road Code.</respond>
+			<answer>Yes</answer>
+			<answer correct="y">No</answer>
+		</item>
+		<item number="203">
+			<question>You are the driver of the blue car. Of the 4 hazards marked, which one is most likely to require you to take urgent action?</question>
+			<image>/assets/motoring/rcq/qImg/hazard-cyclist.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 98 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">The cyclist.</answer>
+			<answer>The parked car.</answer>
+			<answer>The oncoming car.</answer>
+			<answer>The pedestrian.</answer>
+		</item>
+		<item number="204">
+			<question>You are the driver of the blue car. Of the 4 hazards marked, which one is most likely to require you to take urgent action?</question>
+			<image>/assets/motoring/rcq/qImg/hazard-reversing-car.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 98 of the Official New Zealand Road Code.</respond>
+			<answer>The car parked on the left.</answer>
+			<answer correct="y">The reversing car.</answer>
+			<answer>The oncoming car.</answer>
+			<answer>The car parked on the right.</answer>
+		</item>
+		<item number="205">
+			<question>You are the driver of the blue car. Of the 4 hazards marked, which one is most likely to require you to take urgent action?</question>
+			<image>/assets/motoring/rcq/qImg/hazard-turning-car.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 99 of the Official New Zealand Road Code.</respond>
+			<answer>The red car turning left.</answer>
+			<answer>The oncoming red car.</answer>
+			<answer>The grey car ahead of you.</answer>
+			<answer correct="y">The green car turning right.</answer>
+		</item>
+		<item number="206">
+			<question>You are the driver of the blue car. Of the 4 hazards marked, which one is most likely to require you to take urgent action?</question>
+			<image>/assets/motoring/rcq/qImg/hazard-child.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 99 of the Official New Zealand Road Code.</respond>
+			<answer>The adult pedestrian.</answer>
+			<answer correct="y">The child pedestrian.</answer>
+			<answer>The grey parked car.</answer>
+			<answer>The red parked car.</answer>
+		</item>
+		<item number="207">
+			<question>A vehicle should not send out visible smoke for more than:</question>
+			<image>/assets/motoring/rcq/qImg/q207.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 131 of the Official New Zealand Road Code.</respond>
+			<answer>3 seconds.</answer>
+			<answer>5 seconds.</answer>
+			<answer>8 seconds.</answer>
+			<answer correct="y">10 seconds.</answer>
+		</item>
+		<item number="208">
+			<question>You look in the mirror and see a cyclist. What should you do when opening the car door?</question>
+			<image>/assets/motoring/rcq/qImg/q208.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 131 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">Check you won't cause a hazard to the cyclist.</answer>
+			<answer>Wait for the cyclist to go past before opening the door.</answer>
+			<answer>Warn the cyclist by sounding the horn.</answer>
+			<answer>Expect the cyclist to swerve.</answer>
+		</item>
+		<item number="209">
+			<question>You wish to turn left at the intersection. Do you:</question>
+			<image>/assets/motoring/rcq/qImg/q209.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 161 of the Official New Zealand Road Code.</respond>
+			<answer>speed up and turn in front of the cyclist.</answer>
+			<answer>sound the warning device to warn the cyclist.</answer>
+			<answer correct="y">stay back until the cyclist has passed the intersection.</answer>
+			<answer>keep driving to the next intersection.</answer>
+		</item>
+		<item number="210">
+			<question>You see a pedestrian carrying a white cane crossing the road. Do you:</question>
+			<image>/assets/motoring/rcq/qImg/q210.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 153 of the Official New Zealand Road Code.</respond>
+			<answer>rev the engine to let them know that you are waiting.</answer>
+			<answer correct="y">take extra care and allow them to cross the road in their own time.</answer>
+			<answer>turn on the vehicle hazard lights and drive on.</answer>
+			<answer>speed up and pass in front of them.</answer>
+		</item>
+		<item number="211">
+			<question>The "speed limit" means the:</question>
+			<image>/assets/motoring/rcq/qImg/q211.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 113 of the Official New Zealand Road Code.</respond>
+			<answer>slowest speed you can drive in good conditions.</answer>
+			<answer>average speed you can drive in good conditions.</answer>
+			<answer correct="y">fastest speed you can drive in good conditions.</answer>
+			<answer>fastest speed you can drive, except when overtaking.</answer>
+		</item>
+		<item number="212">
+			<question>You are driving past a line of parked cars. You notice a ball bouncing out into the road ahead. Do you:</question>
+			<image>/assets/motoring/rcq/qImg/q212.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 100 of the Official New Zealand Road Code.</respond>
+			<answer>keep driving at the same speed.</answer>
+			<answer>keep driving at the same speed and flash the vehicle's headlights.</answer>
+			<answer correct="y">slow down and be prepared to stop for children.</answer>
+			<answer>slow down and move to the right-hand side of the road.</answer>
+		</item>
+		<item number="213">
+			<question>You are the driver of the blue car. Do you:</question>
+			<image>/assets/motoring/rcq/qImg/q213.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 62 of the Official New Zealand Road Code.</respond>
+			<answer>keep driving as the cyclist has to stop.</answer>
+			<answer correct="y">stop and give way to the cyclist.</answer>
+			<answer>keep driving as the cyclist has to give way to larger vehicles.</answer>
+			<answer>sound the warning device to warn the cyclist.</answer>
+		</item>
+		<item number="214">
+			<question>You are the driver of the blue car. Do you:</question>
+			<image>/assets/motoring/rcq/qImg/q214.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 59 of the Official New Zealand Road Code.</respond>
+			<answer>speed up to get around in front of the cyclist.</answer>
+			<answer>keep driving as the cyclist has to give way to larger vehicles.</answer>
+			<answer>sound the warning device to warn the cyclist.</answer>
+			<answer correct="y">stop and give way to the cyclist.</answer>
+		</item>
+		<item number="215">
+			<question>You must check that there is space for your vehicle on the other side of the line before going over a railway level crossing.</question>
+			<image>/assets/motoring/rcq/qImg/q090.jpg</image>
+			<respond>The correct answer is True. For more information about this question refer to page 75 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		
+		<item number="216">
+			<question>When driving at night on a road with lanes you must be able to stop in half the length of clear road you can see in front of you.</question>
+			<image>/assets/motoring/rcq/qImg/q217.jpg</image>
+			<respond>The correct answer is False. For more information about this question refer to page 88 of the Official New Zealand Road Code.</respond>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		
+		<item number="217">
+			<question>If you are turning left at an intersection, you must give way to vehicles coming towards you that are turning right.</question>
+			<image>/assets/motoring/rcq/qImg/q141.jpg</image>
+			<respond>The correct answer is False. For more information about this question refer to page 60 of the Official New Zealand Road Code.</respond>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		
+		<item number="218">
+			<question>If you are going 'straight' through a roundabout, don't signal as you come up to the roundabout, signal left as you pass the exit before the one you want to take.</question>
+			<image>/assets/motoring/rcq/qImg/q156.jpg</image>
+			<respond>The correct answer is True. For more information about this question refer to page 70 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item number="219">
+			<question>You may use a right turn bay to overtake a vehicle travelling straight ahead.</question>
+			<image>/assets/motoring/rcq/qImg/q219.jpg</image>
+			<respond>The correct answer is false. For more information about this question refer to page 29 of the Official New Zealand Road Code.</respond>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item number="220">
+			<question>You can be fined if your vehicle is on a road and not up to warrant of fitness standard.</question>
+			<image>/assets/motoring/rcq/qImg/q220.jpg</image>
+			<respond>The correct answer is true. For more information about this question refer to page 147 of the Official New Zealand Road Code.</respond>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item number="221">
+			<question>When coming up to a pedestrian crossing with a raised traffic island, what must you do?</question>
+			<image>/assets/motoring/rcq/qImg/q221.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 154 of the Official New Zealand Road Code.</respond>
+			<answer>Stop and give way to pedestrians on any part of the crossing.</answer>
+			<answer>Keep going because the pedestrian will stop on the raised island.</answer>
+			<answer correct="y">Stop and give way to pedestrians on your half of the road.</answer>
+			<answer>Slow down until the pedestrian is on the raised island then drive on.</answer>
+		</item>
+		<item number="222">
+			<question>What does the legal definition of a road include?</question>
+			<image>/assets/motoring/rcq/qImg/q222.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 17 of the Official New Zealand Road Code.</respond>
+			<answer>Tar-sealed roads only.</answer>
+			<answer>One way streets and cycle lanes.</answer>
+			<answer>Public roads, highways, footpaths and car parks.</answer>
+			<answer correct="y">Streets, highways, and any place the public has access to such as bridges, beaches, car parks etc.</answer>
+		</item>
+		<item number="223">
+			<question>At an intersection what do a police officer's directions overrule?</question>
+			<image>/assets/motoring/rcq/qImg/q223.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 24 of the Official New Zealand Road Code</respond>
+			<answer>The speed limit.</answer>
+			<answer>Traffic signals only.</answer>
+			<answer>The give way rules.</answer>
+			<answer correct="y">Traffic signals, road signs, the give way rules.</answer>
+		</item>
+		<item number="224">
+			<question>If you are under 20 the legal alcohol limit is 30 milligrams per 100 millilitres of blood. What does that mean?</question>
+			<image>/assets/motoring/rcq/qImg/q109.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 188 of the Official New Zealand Road Code</respond>
+			<answer correct="y">It is basically a zero alcohol limit. One drink may mean you're over the limit.</answer>
+			<answer>It is safe to have several alcoholic drinks.</answer>
+			<answer>You'll be under the legal alcohol limit if you space your drinks 1 hour apart.</answer>
+			<answer>It is safe to have one alcoholic drink if you have had a meal.</answer>
+		</item>
+		<item number="225">
+			<question>When may you use the horn on your vehicle?</question>
+			<image>/assets/motoring/rcq/qImg/q225.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 131 of the Official New Zealand Road Code</respond>
+			<answer>When you want to get the attention of someone in another car.</answer>
+			<answer>When the driver in front of you fails to indicate.</answer>
+			<answer correct="y">As a reasonable traffic warning.</answer>
+			<answer>When you want to get the attention of someone walking down the street.</answer>
+		</item>
+		
+		<item number="226">
+			<question>What must you do at an intersection controlled by a stop sign?</question>
+			<image>/assets/motoring/rcq/qImg/q228.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 63 of the Official New Zealand Road Code</respond>
+			<answer>Stop where you can see all vehicles coming from your right.</answer>
+			<answer>Slow down and drive on if no vehicles are coming.</answer>
+			<answer>Give way to all vehicles on your left.</answer>
+			<answer correct="y">Come to a complete stop where you can see vehicles coming from all directions.</answer>
+		</item>
+		
+		<item number="227">
+			<question>What must you do at an intersection controlled by a Give Way sign?</question>
+			<image>/assets/motoring/rcq/qImg/q023.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 62 of the Official New Zealand Road Code</respond>
+			<answer>Give way to all vehicles, including those on a stop sign.</answer>
+			<answer>Come to a complete stop.</answer>
+			<answer correct="y">Give way to all vehicles, except those on a stop sign.</answer>
+			<answer>Give way to all vehicles on your right.</answer>
+		</item>
+		
+		<item number="228">
+			<question>What is the recommended distance you should allow when driving past a cyclist? (x metres)</question>
+			<image>/assets/motoring/rcq/qImg/q209.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 160 of the Official New Zealand Road Code</respond>
+			<answer correct="y">1.5 metres.</answer>
+			<answer>1 metre.</answer>
+			<answer>2 metres.</answer>
+			<answer>2.5 metres.</answer>
+		</item>
+		
+		<item number="229">
+			<question>What is the maximum distance a load may overhang your vehicle behind the rear axle?</question>
+			<image>/assets/motoring/rcq/qImg/q231.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 149 of the Official New Zealand Road Code</respond>
+			<answer>2 metres.</answer>
+			<answer correct="y">4 metres.</answer>
+			<answer>3 metres.</answer>
+			<answer>2.5 metres.</answer>
+		</item>
+		
+		<item number="230">
+			<question>Your vehicle has a current warrant of fitness but a rear red stop light is not working. What should you do?</question>
+			<image>/assets/motoring/rcq/qImg/q232.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 147 of the Official New Zealand Road Code</respond>
+			<answer>Get it fixed before your next warrant is due.</answer>
+			<answer>Your vehicle still has a warrant of fitness so you don't need to do anything.</answer>
+			<answer correct="y">Fix it immediately because you could get a fine.</answer>
+			<answer>Stop driving your vehicle until it is fixed.</answer>
+		</item>
+		
+		<item number="231">
+			<question>What does a warrant of fitness show?</question>
+			<image>/assets/motoring/rcq/qImg/q233.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 146 of the Official New Zealand Road Code</respond>
+			<answer correct="y">The vehicle was inspected by an approved WoF inspector and was roadworthy when last inspected.</answer>
+			<answer>The vehicle failed the WoF inspection and you have 28 days to fix the vehicle.</answer>
+			<answer>Your commercial vehicle has been inspected and is roadworthy.</answer>
+			<answer>The vehicle was inspected by an approved WoF inspector but is not considered roadworthy.</answer>
+		</item>
+		
+		<item number="232">
+			<question>Which person can legally stop and do a roadside check of your vehicle?</question>
+			<image>/assets/motoring/rcq/qImg/q234.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 147 of the Official New Zealand Road Code</respond>
+			<answer>A Justice of the Peace.</answer>
+			<answer>A fire or ambulance officer.</answer>
+			<answer correct="y">A police officer.</answer>
+			<answer>A lawyer.</answer>
+		</item>
+		
+		<item number="233">
+			<question>If your vehicle was first registered less than six years ago, when does it require a warrant of fitness inspection?</question>
+			<image>/assets/motoring/rcq/qImg/q233.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 147 of the Official New Zealand Road Code</respond>
+			<answer correct="y">Every 12 months.</answer>
+			<answer>Every 18 months.</answer>
+			<answer>Every 8 months.</answer>
+			<answer>Every 6 months.</answer>
+		</item>
+		
+		<item number="234">
+			<question>Where should the warrant of fitness label for your car be displayed?</question>
+			<image>/assets/motoring/rcq/qImg/q233.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 147 of the Official New Zealand Road Code</respond>
+			<answer>Inside the windscreen, in the top left-hand corner (as viewed from the driver’s seat).</answer>
+			<answer correct="y">Inside the windscreen, in the top right-hand corner (as viewed from the driver’s seat).</answer>
+			<answer>Inside the windscreen, in the bottom right-hand corner (as viewed from the driver’s seat).</answer>
+			<answer>Inside the windscreen, in the bottom left-hand corner (as viewed from the driver’s seat).</answer>
+		</item>
+		
+		<item number="235">
+			<question>What is the maximum distance a load may extend in front of a car?</question>
+			<image>/assets/motoring/rcq/qImg/q231.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 149 of the Official New Zealand Road Code</respond>
+			<answer>2 metres forward of the front edge of the front seat.</answer>
+			<answer>4 metres forward of the front edge of the front seat.</answer>
+			<answer correct="y">3 metres forward of the front edge of the front seat.</answer>
+			<answer>2.5 metres forward of the front edge of the front seat.</answer>
+		</item>
+		
+		<item number="236">
+			<question>Which parts of the car must be in good condition to prevent too much noise and gases entering the car?</question>
+			<image>/assets/motoring/rcq/qImg/q133.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 131 of the Official New Zealand Road Code</respond>
+			<answer>The engine and exhaust system.</answer>
+			<answer correct="y">The exhaust system and silencer.</answer>
+			<answer>The doors and windows.</answer>
+			<answer>The silencer and engine.</answer>
+		</item>
+		
+		<item number="237">
+			<question>At night, what must a towed vehicle have at the back of it?</question>
+			<image>/assets/motoring/rcq/qImg/q118.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 54 of the Official New Zealand Road Code</respond>
+			<answer>A white flag.</answer>
+			<answer>Reflective tape.</answer>
+			<answer>A white light.</answer>
+			<answer correct="y">A red light.</answer>
+		</item>
+		
+		<item number="238">
+			<question>What should you do before any modification is carried out on your vehicle?</question>
+			<image>/assets/motoring/rcq/qImg/q239.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 150 of the Official New Zealand Road Code</respond>
+			<answer>Ask a mechanic to check whether the modifications are safe.</answer>
+			<answer>If you're only fitting extra lights you don't need to do anything.</answer>
+			<answer>Make sure a trained professional is carrying out the modifications.</answer>
+			<answer correct="y">Check with an approved WoF inspector that the modifications are legal.</answer>
+		</item>
+		
+		<item number="239">
+			<question>To tow a trailer on a full car licence, the weight of your vehicle plus the weight of the trailer must not exceed what weight?</question>
+			<image>/assets/motoring/rcq/qImg/q033.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 53 of the Official New Zealand Road Code</respond>
+			<answer correct="y">6000 kg (including the load you are carrying).</answer>
+			<answer>4500 kg (excluding the load you are carrying).</answer>
+			<answer>4000 kg (including the load you are carrying).</answer>
+			<answer>5000 kg (including the load you are carrying).</answer>
+		</item>
+		
+		<item number="240">
+			<question>If you have had a flat tyre and have fitted a 'space saver wheel' what must you do?</question>
+			<image>/assets/motoring/rcq/qImg/q241.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 133 of the Official New Zealand Road Code</respond>
+			<answer>Make sure the space-saver tyre is inflated to normal tyre pressure.</answer>
+			<answer correct="y">Drive for a short distance only and not faster than 80 km/h.</answer>
+			<answer>Drive  as far as you like but not faster than 80 km/h.</answer>
+			<answer>Drive for a short distance only and not faster than 100 km/h.</answer>
+		</item>
+		
+		<item number="241">
+			<question>What is the maximum speed you may drive if you have a 'space saver wheel' fitted? (km/h)</question>
+			<image>/assets/motoring/rcq/qImg/q241.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 133 of the Official New Zealand Road Code</respond>
+			<answer>70 km/h.</answer>
+			<answer>100 km/h so you don’t hold up other traffic.</answer>
+			<answer correct="y">80 km/h. If the space-saver wheel displays a lower speed that speed applies.</answer>
+			<answer>90 km/h.</answer>
+		</item>
+	
+		
+		<item number="242">
+			<question>If you have a restricted licence when can you carry passengers?</question>
+			<image>/assets/motoring/rcq/qImg/q244.jpg</image>
+			<respond>The correct answer is D. For more information about this question refer to page 192 of the Official New Zealand Road Code</respond>
+			<answer>One of your passengers has their full licence.</answer>
+			<answer>If it is an emergency.</answer>
+			<answer>Between the hours of 10 pm and 5 am.</answer>
+			<answer correct="y">When a supervisor, who has held a NZ car licence for at least 2 years, is in the front seat.</answer>
+		</item>
+		
+		<item number="243">
+			<question>If you have a learner licence can you carry passengers?</question>
+			<image>/assets/motoring/rcq/qImg/q244.jpg</image>
+			<respond>The correct answer is A. For more information about this question refer to page 188 of the Official New Zealand Road Code</respond>
+			<answer correct="y">Yes, provided your supervisor agrees and is sitting in the front passenger seat.</answer>
+			<answer>Yes, provided you're with a supervisor and it's between the hours of 5 am and 10 pm.</answer>
+			<answer>No, you can only drive with a supervisor.</answer>
+			<answer>Yes, provided you're with a supervisor and you have no more than 2 passengers.</answer>
+		</item>
+		
+		<item number="244">
+			<question>When you have a learner licence you must always drive with a supervisor. What is a supervisor?</question>
+			<image>/assets/motoring/rcq/qImg/q246.jpg</image>
+			<respond>The correct answer is B. For more information about this question refer to page 188 of the Official New Zealand Road Code</respond>
+			<answer>An adult that sits next to you in the passenger seat.</answer>
+			<answer correct="y">Someone that has held a valid full NZ licence for at least 2 years and sits in the passenger seat.</answer>
+			<answer>Anyone in the car that has held a valid full NZ licence for at least 2 years.</answer>
+			<answer>Someone who sits in the passenger seat with a restricted NZ licence.</answer>
+		</item>
+		
+		<item number="245">
+			<question>When you have a learner licence do you have to have it with you when you drive?</question>
+			<image>/assets/motoring/rcq/qImg/q246.jpg</image>
+			<respond>The correct answer is C. For more information about this question refer to page 188 of the Official New Zealand Road Code</respond>
+			<answer>No, your supervisor will carry their licence because they're responsible for the car.</answer>
+			<answer>Only when you're driving at night.</answer>
+			<answer correct="y">Yes, you must have your learner licence with you whenever you are driving.</answer>
+			<answer>Only when you are carrying passengers as well as your supervisor.</answer>
+		</item>
+		
+		
+	</items>
+
+	
+	</quiz>
